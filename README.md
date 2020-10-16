@@ -1,2 +1,2 @@
-# preference_papers
-This repository is a list of papers related to preference learning and interactive multi-objective optimization.
+# List of papers.
+This is an archive of papers related to preference learning, interactive multi-objective optimization and multi-criteria decision-making.
