@@ -10,3 +10,11 @@ This is an archive of papers related to preference learning, interactive multi-o
 
 ### [Survey Papers](#content)
 1. **Representation Learning on Graphs: Methods and Applications.** *K. Li, M. Liao, K. Deb, G. Min, X. Yao*. IEEE Trans. Evolutionary Computation, 2020. [paper](https://ieeexplore.ieee.org/document/9066927)
+
+### [Preference Learning](#content)
+
+### [Interactive Multi-Objective Optimization](#iemo)
+
+### [Multi-Criteria Decision Analysis](#mcda)
+
+### [Applications](#applications)
