@@ -20,7 +20,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 ### [Interactive Multi-Objective Optimization](#iemo)
 1. **Interactive Multiobjective Evolutionary Algorithms.** *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008. [paper](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7)
 2. **Light beam search based multi-objective optimization using evolutionary algorithms.** *J. Branke, T. Kaußler, H. Schmeck*.  CEC 2007. [paper](https://ieeexplore.ieee.org/document/4424735)
-
+3. **Interactive evolutionary multi-objective optimization for quasi-concave preference functions.** *John W.Fowler et al.*.  European Journal of Operational Research 206(2010) 417-425. [paper](https://www.sciencedirect.com/science/article/pii/S037722171000158X)
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 
