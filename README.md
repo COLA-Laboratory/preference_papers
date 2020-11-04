@@ -17,6 +17,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 3. **Guidance in evolutionary multi-objective optimization.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  2001 Elsevier Science Ltd, 2001. [paper](https://www.sciencedirect.com/science/article/pii/S0965997800001101)
 4. **Multi-objective Evolutionary Algorithms: Introducing Bias Among Pareto-optimal Solutions.** *Kalyanmoy Deb*.  Advances in Evolutionary Computing pp 263-292, 2003. [paper](https://link.springer.com/chapter/10.1007%2F978-3-642-18965-4_10)
 5. **A review of hybrid evolutionary multiple criteria decision making methods.** *Robin C. Purshouse, Kalyanmoy Deb, Maszatul M. Mansor, Sanaz Mostaghim, Rui Wang*.  CEC 2014. [paper](https://ieeexplore.ieee.org/document/6900368)
+6. **Reference Point Based Multi-ObjectiveOptimization Using Evolutionary Algorithms.** *Kalyanmoy Deb, J. Sundar*.  GECCO 2006. [paper](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=074A39C07034A6DEDA4A22E3EF83EB27?doi=10.1.1.123.1541&rep=rep1&type=pdf)
 
 ### [Interactive Multi-Objective Optimization](#iemo)
 1. **Interactive Multiobjective Evolutionary Algorithms.** *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008. [paper](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7)
