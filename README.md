@@ -25,3 +25,4 @@ This is an archive of papers related to preference learning, interactive multi-o
 ### [Multi-Criteria Decision Analysis](#mcda)
 
 ### [Applications](#applications)
+1. **A two-stage preference-based evolutionary multi-objective approach for capability planning problems.** *JianXiong, Ke-weiYang, JingLiu, Qing-songZhao, Ying-wuChen*. Knowledge-Based Systems 31(2012) Pages 128-139. [paper](https://www.sciencedirect.com/science/article/pii/S0950705112000378)
