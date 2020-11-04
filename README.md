@@ -16,6 +16,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 2. **Learning Value Functions in Interactive Evolutionary Multiobjective Optimization.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  IEEE Transactions on Evolutionary Computation, 2015. [paper](https://ieeexplore.ieee.org/document/6729055)
 3. **Guidance in evolutionary multi-objective optimization.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  2001 Elsevier Science Ltd, 2001. [paper](https://www.sciencedirect.com/science/article/pii/S0965997800001101)
 4. **Multi-objective Evolutionary Algorithms: Introducing Bias Among Pareto-optimal Solutions.** *Kalyanmoy Deb*.  Advances in Evolutionary Computing pp 263-292, 2003. [paper](https://link.springer.com/chapter/10.1007%2F978-3-642-18965-4_10)
+5. **A review of hybrid evolutionary multiple criteria decision making methods.** *Robin C. Purshouse, Kalyanmoy Deb, Maszatul M. Mansor, Sanaz Mostaghim, Rui Wang*.  CEC 2014. [paper](https://ieeexplore.ieee.org/document/6900368)
 
 ### [Interactive Multi-Objective Optimization](#iemo)
 1. **Interactive Multiobjective Evolutionary Algorithms.** *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008. [paper](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7)
@@ -23,6 +24,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 3. **Interactive evolutionary multi-objective optimization for quasi-concave preference functions.** *John W.Fowler et al.*.  European Journal of Operational Research 206(2010) 417-425. [paper](https://www.sciencedirect.com/science/article/pii/S037722171000158X)
 
 ### [Multi-Criteria Decision Analysis](#mcda)
+
 
 ### [Applications](#applications)
 1. **A two-stage preference-based evolutionary multi-objective approach for capability planning problems.** *JianXiong, Ke-weiYang, JingLiu, Qing-songZhao, Ying-wuChen*. Knowledge-Based Systems 31(2012) Pages 128-139. [paper](https://www.sciencedirect.com/science/article/pii/S0950705112000378)
