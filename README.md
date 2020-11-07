@@ -31,6 +31,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 4. **Performance Measurement for InteractiveMulti-objective Evolutionary Algorithms.** *Long Nguyen, Hung Nguyen Xuan, Lam Thu Bui*.  2015 Seventh International Conference on Knowledge and Systems Engineering. [paper](https://ieeexplore.ieee.org/document/7371800)
 5. **Interactive MOEA/D for multi-objective decision making.** *Maoguo Gong, Fang Liu, Wei Zhang, Licheng Jiao, Qingfu Zhang*.  GECCO 2011. [paper](https://dl.acm.org/doi/10.1145/2001576.2001675)
 6. **Interactive evolutionary multi-objective optimization and decision-making using reference direction method.** *Kalyanmoy Deb, Abhishek Kumar,*. GECCO 2007. [paper](https://dl.acm.org/doi/10.1145/1276958.1277116)
+7. **An Interactive Evolutionary Multiobjective Optimization Method Based on Progressively Approximated Value Functions.** *Kalyanmoy Deb, Ankur Sinha, Pekka J. Korhonen, Jyrki Wallenius*. TECV 2010. [paper](https://ieeexplore.ieee.org/document/5585740/authors#authors)
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
