@@ -22,8 +22,11 @@ This is an archive of papers related to preference learning, interactive multi-o
 6. **Reference Point Based Multi-ObjectiveOptimization Using Evolutionary Algorithms.** *Kalyanmoy Deb, J. Sundar*.  GECCO 2006. [paper](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=074A39C07034A6DEDA4A22E3EF83EB27?doi=10.1.1.123.1541&rep=rep1&type=pdf)
 7. **Brain–Computer Evolutionary Multiobjective Optimization: A Genetic Algorithm Adapting to the Decision Maker.** *Roberto Battiti, Andrea Passerini*.  TEVC 2010. [paper](https://ieeexplore.ieee.org/document/5560789)
 8. **Integration of Preferences in Decomposition Multiobjective Optimization.** *Ke Li, Renzhi Chen, Geyong Min, Xin Yao*.  IEEE Transactions on Cybernetics 2018. [paper](https://ieeexplore.ieee.org/document/8440670)
-9. **Handling preferences in evolutionary multiobjective optimization: a survey.** *Carlos A. Coello Coello*.  CEC 2000. [paper](https://ieeexplore.ieee.org/document/870272?arnumber=870272&tag=1)
+9. **Handling preferences in evolutionary multiobjective optimization: a survey.** *Carlos A. Coello Coello*. CEC 2000. [paper](https://ieeexplore.ieee.org/document/870272?arnumber=870272&tag=1)
 10. **Integrating User Preferences into Evolutionary Multi-Objective Optimization.** *Jürgen Branke, Kalyanmoy Deb*. Knowledge Incorporation in Evolutionary Computation pp 461-477. [paper](https://link.springer.com/chapter/10.1007/978-3-540-44511-1_21)
+11. **Preference Incorporation in Evolutionary Multiobjective Optimization: A Survey of the State-of-the-Art.** *Slim Bechikh, Marouane Kessentini, Lamjed Ben Said, Khaled Ghédira*. Advances in Computers Volume 98, 2015, Pages 141-207. [paper](https://www.sciencedirect.com/science/article/pii/S0065245815000273)
+12. **Preference Incorporation in Multi-objective Evolutionary Algorithms: A Survey.** *L. Rachmawati, D. Srinivasan*. CEC 2006. [paper](https://ieeexplore.ieee.org/document/1688414)
+
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
