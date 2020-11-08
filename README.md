@@ -23,6 +23,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 7. **Brain–Computer Evolutionary Multiobjective Optimization: A Genetic Algorithm Adapting to the Decision Maker.** *Roberto Battiti, Andrea Passerini*.  TEVC 2010. [paper](https://ieeexplore.ieee.org/document/5560789)
 8. **Integration of Preferences in Decomposition Multiobjective Optimization.** *Ke Li, Renzhi Chen, Geyong Min, Xin Yao*.  IEEE Transactions on Cybernetics 2018. [paper](https://ieeexplore.ieee.org/document/8440670)
 9. **Handling preferences in evolutionary multiobjective optimization: a survey.** *Carlos A. Coello Coello*.  CEC 2000. [paper](https://ieeexplore.ieee.org/document/870272?arnumber=870272&tag=1)
+10. **Integrating User Preferences into Evolutionary Multi-Objective Optimization.** *Jürgen Branke, Kalyanmoy Deb*. Knowledge Incorporation in Evolutionary Computation pp 461-477. [paper](https://link.springer.com/chapter/10.1007/978-3-540-44511-1_21)
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
