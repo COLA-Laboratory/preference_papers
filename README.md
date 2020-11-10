@@ -26,6 +26,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 10. **Integrating User Preferences into Evolutionary Multi-Objective Optimization.** *Jürgen Branke, Kalyanmoy Deb*. Knowledge Incorporation in Evolutionary Computation pp 461-477. [paper](https://link.springer.com/chapter/10.1007/978-3-540-44511-1_21)
 11. **Preference Incorporation in Evolutionary Multiobjective Optimization: A Survey of the State-of-the-Art.** *Slim Bechikh, Marouane Kessentini, Lamjed Ben Said, Khaled Ghédira*. Advances in Computers Volume 98, 2015, Pages 141-207. [paper](https://www.sciencedirect.com/science/article/pii/S0065245815000273)
 12. **Preference Incorporation in Multi-objective Evolutionary Algorithms: A Survey.** *L. Rachmawati, D. Srinivasan*. CEC 2006. [paper](https://ieeexplore.ieee.org/document/1688414)
+13. **Integrating user preferences with particle swarms for multi-objective optimization.** *U. K. Wickramasinghe, X. Li*. GECOO 2008. [paper](https://dl.acm.org/doi/10.1145/1389095.1389237)
+14. **Reference Point-Based Particle Swarm Optimization Using a Steady-State Approach.** *R. Allmendinger, X. Li, J. Branke*. SEAL 2008. [paper](https://link.springer.com/chapter/10.1007%2F978-3-540-89694-4_21)
 
 
 
