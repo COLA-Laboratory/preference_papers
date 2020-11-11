@@ -28,7 +28,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 12. **Preference Incorporation in Multi-objective Evolutionary Algorithms: A Survey.** *L. Rachmawati, D. Srinivasan*. CEC 2006. [paper](https://ieeexplore.ieee.org/document/1688414)
 13. **Integrating user preferences with particle swarms for multi-objective optimization.** *U. K. Wickramasinghe, X. Li*. GECOO 2008. [paper](https://dl.acm.org/doi/10.1145/1389095.1389237)
 14. **Reference Point-Based Particle Swarm Optimization Using a Steady-State Approach.** *R. Allmendinger, X. Li, J. Branke*. SEAL 2008. [paper](https://link.springer.com/chapter/10.1007%2F978-3-540-89694-4_21)
-
+15. **Set-Based Many-Objective Optimization Guided by Preferred Regions.** *Dunwei Gong, Fenglin Sun, Jing Sun, Xiaoyan Sun*. ICIC 2015. [paper](https://rd.springer.com/chapter/10.1007/978-3-319-22053-6_10)
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
