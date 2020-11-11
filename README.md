@@ -29,6 +29,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 13. **Integrating user preferences with particle swarms for multi-objective optimization.** *U. K. Wickramasinghe, X. Li*. GECOO 2008. [paper](https://dl.acm.org/doi/10.1145/1389095.1389237)
 14. **Reference Point-Based Particle Swarm Optimization Using a Steady-State Approach.** *R. Allmendinger, X. Li, J. Branke*. SEAL 2008. [paper](https://link.springer.com/chapter/10.1007%2F978-3-540-89694-4_21)
 15. **Set-Based Many-Objective Optimization Guided by Preferred Regions.** *Dunwei Gong, Fenglin Sun, Jing Sun, Xiaoyan Sun*. ICIC 2015. [paper](https://rd.springer.com/chapter/10.1007/978-3-319-22053-6_10)
+16. **g-dominance: Reference point based dominance for multiobjective metaheuristics.** *Julián Molina, Luis V.Santana, Alfredo G.Hernández-Díaz, Carlos A.Coello Coello, RafaelCaballero*. European Journal of Operational Research, vol. 197, pp. 685-692, 2009. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221708005146)
+
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
