@@ -29,8 +29,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 13. **Integrating user preferences with particle swarms for multi-objective optimization.** *U. K. Wickramasinghe, X. Li*. GECOO 2008. [paper](https://dl.acm.org/doi/10.1145/1389095.1389237)
 14. **Reference Point-Based Particle Swarm Optimization Using a Steady-State Approach.** *R. Allmendinger, X. Li, J. Branke*. SEAL 2008. [paper](https://link.springer.com/chapter/10.1007%2F978-3-540-89694-4_21)
 15. **Set-Based Many-Objective Optimization Guided by Preferred Regions.** *Dunwei Gong, Fenglin Sun, Jing Sun, Xiaoyan Sun*. ICIC 2015. [paper](https://rd.springer.com/chapter/10.1007/978-3-319-22053-6_10)
-16. **g-dominance: Reference point based dominance for multiobjective metaheuristics.** *Julián Molina, Luis V.Santana, Alfredo G.Hernández-Díaz, Carlos A.Coello Coello, RafaelCaballero*. European Journal of Operational Research, vol. 197, pp. 685-692, 2009. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221708005146)
-
+16. **g-dominance: Reference point based dominance for multiobjective metaheuristics.** *Julián Molina, Luis V.Santana, Alfredo G.Hernández-Díaz, Carlos A.Coello Coello, Rafael Caballero*. European Journal of Operational Research, vol. 197, pp. 685-692, 2009. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221708005146)
+17. **A hybrid machine learning framework for analyzing human decision-making through learning preferences.** *Mengzhuo Guo, Qingpeng Zhang, Xiuwu Liao, Frank Youhua Chen, Daniel Dajun Zeng*. Omega 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0305048319312575)
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
@@ -48,5 +48,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 ### [Multi-Criteria Decision Analysis](#mcda)
 
 
+
 ### [Applications](#applications)
 1. **A two-stage preference-based evolutionary multi-objective approach for capability planning problems.** *JianXiong, Ke-weiYang, JingLiu, Qing-songZhao, Ying-wuChen*. Knowledge-Based Systems 31(2012) Pages 128-139. [paper](https://www.sciencedirect.com/science/article/pii/S0950705112000378)
+2. **A mixed-initiative system for interactive tactical supply chain optimization.** *Francois Chéné, Jonathan Gaudreault, Claude-Guy Quimper*. MOSIM 2014. [paper](http://www2.ift.ulaval.ca/~quimper/publications/mosim2014MIS.pdf)
