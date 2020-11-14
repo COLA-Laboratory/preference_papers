@@ -42,7 +42,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **An Interactive Evolutionary Multiobjective Optimization Method Based on Progressively Approximated Value Functions.** *Kalyanmoy Deb, Ankur Sinha, Pekka J. Korhonen, Jyrki Wallenius*. TEVC 2010. [paper](https://ieeexplore.ieee.org/document/5585740/authors#authors)
 + **An Interactive Evolutionary Metaheuristic for Multiobjective Combinatorial Optimization.** *Selcen (Pamuk) Phelps, Murat Koksalan*. Management Science, Linthicum Vol. 49, Iss. 12, (Dec 2003): 1726-1738. [paper](https://www.proquest.com/docview/213253294/fulltextPDF/D8EBA233FF6E4B5CPQ/1?accountid=26782)
 + **Interactive Evolutionary Multiobjective Optimization Using Robust Ordinal Regression.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*. EMO 2009. [paper](https://link.springer.com/chapter/10.1007%2F978-3-642-01020-0_43)
++ **Decomposition-Based Interactive Evolutionary Algorithm for Multiple Objective Optimization.** *Michał K. Tomczyk, Miłosz Kadziński*. TEVC 2020. [paper](https://ieeexplore.ieee.org/document/8710313)
 
+Michał K. Tomczyk; Miłosz Kadziński
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 
