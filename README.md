@@ -30,6 +30,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Set-Based Many-Objective Optimization Guided by Preferred Regions.** *Dunwei Gong, Fenglin Sun, Jing Sun, Xiaoyan Sun*. ICIC 2015. [paper](https://rd.springer.com/chapter/10.1007/978-3-319-22053-6_10)
 + **g-dominance: Reference point based dominance for multiobjective metaheuristics.** *Julián Molina, Luis V.Santana, Alfredo G.Hernández-Díaz, Carlos A.Coello Coello, Rafael Caballero*. European Journal of Operational Research, vol. 197, pp. 685-692, 2009. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221708005146)
 + **A hybrid machine learning framework for analyzing human decision-making through learning preferences.** *Mengzhuo Guo, Qingpeng Zhang, Xiuwu Liao, Frank Youhua Chen, Daniel Dajun Zeng*. Omega 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0305048319312575)
++ **Guessing preferences: A new approach to multi-attribute ranking and selection.** *Peter I. Frazier, Aleksandr M. Kazachkov*. Proceedings of the 2011 Winter Simulation Conference (WSC), Phoenix, AZ, 2011, pp. 4319-4331. [paper](https://ieeexplore.ieee.org/document/6148119?denied=)
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
