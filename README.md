@@ -32,6 +32,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **A hybrid machine learning framework for analyzing human decision-making through learning preferences.** *Mengzhuo Guo, Qingpeng Zhang, Xiuwu Liao, Frank Youhua Chen, Daniel Dajun Zeng*. Omega 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0305048319312575)
 + **Guessing preferences: A new approach to multi-attribute ranking and selection.** *Peter I. Frazier, Aleksandr M. Kazachkov*. Proceedings of the 2011 Winter Simulation Conference (WSC), Phoenix, AZ, 2011, pp. 4319-4331. [paper](https://ieeexplore.ieee.org/document/6148119?denied=)
 + **Learning to rank using gradient descent.** *Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, Greg Hullender*. ICML 2005. [paper](https://dl.acm.org/doi/abs/10.1145/1102351.1102363)
++ **From RankNet to LambdaRank toLambdaMART: An Overview.** *Christopher J.C. Burges*. Microsoft Research Technical Report MSR-TR-2010-82. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
 
  
 
