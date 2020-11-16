@@ -46,6 +46,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Decomposition-Based Interactive Evolutionary Algorithm for Multiple Objective Optimization.** *Michał K. Tomczyk, Miłosz Kadziński*. TEVC 2020. [paper](https://ieeexplore.ieee.org/document/8710313)
 + **Interactive Preference Learning of Utility Functions for Multi-Objective Optimization.** *Ian Dewancker, Michael McCourt, Samuel Ainsworth*.  arXiv:1612.04453v2 [math.OC]. [paper](https://arxiv.org/abs/1612.04453v2)
 + **The r-Dominance: A New Dominance Relation for Interactive Evolutionary Multicriteria Decision Making.** *Lamjed Ben Said, Slim Bechikh, Khaled Ghedira*. TEVC 2010. [paper](https://ieeexplore.ieee.org/document/5453088)
++ **On the elicitation of indirect preferences in interactive evolutionary multiple objective optimization.** *Michał K. Tomczyk, MiłOsz KadzińSki*. GECCO 2020. [paper](https://dl.acm.org/doi/10.1145/3377930.3389826)
+
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
