@@ -31,7 +31,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **g-dominance: Reference point based dominance for multiobjective metaheuristics.** *Julián Molina, Luis V.Santana, Alfredo G.Hernández-Díaz, Carlos A.Coello Coello, Rafael Caballero*. European Journal of Operational Research, vol. 197, pp. 685-692, 2009. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221708005146)
 + **A hybrid machine learning framework for analyzing human decision-making through learning preferences.** *Mengzhuo Guo, Qingpeng Zhang, Xiuwu Liao, Frank Youhua Chen, Daniel Dajun Zeng*. Omega 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0305048319312575)
 + **Guessing preferences: A new approach to multi-attribute ranking and selection.** *Peter I. Frazier, Aleksandr M. Kazachkov*. Proceedings of the 2011 Winter Simulation Conference (WSC), Phoenix, AZ, 2011, pp. 4319-4331. [paper](https://ieeexplore.ieee.org/document/6148119?denied=)
++ **Learning to rank using gradient descent.** *Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, Greg Hullender*. ICML 2005. [paper](https://dl.acm.org/doi/abs/10.1145/1102351.1102363)
 
+ 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
 + **Interactive Multiobjective Evolutionary Algorithms.** *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008. [paper](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7)
