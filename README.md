@@ -55,3 +55,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 ### [Applications](#applications)
 + **A two-stage preference-based evolutionary multi-objective approach for capability planning problems.** *JianXiong, Ke-weiYang, JingLiu, Qing-songZhao, Ying-wuChen*. Knowledge-Based Systems 31(2012) Pages 128-139. [paper](https://www.sciencedirect.com/science/article/pii/S0950705112000378)
 + **A mixed-initiative system for interactive tactical supply chain optimization.** *Francois Chéné, Jonathan Gaudreault, Claude-Guy Quimper*. MOSIM 2014. [paper](http://www2.ift.ulaval.ca/~quimper/publications/mosim2014MIS.pdf)
++ **Preference-Based Learning for Exoskeleton Gait Optimization.** *Maegan Tucker, Ellen Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, Aaron D. Ames*. ICRA 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9196661)
+
+
+
