@@ -34,6 +34,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Learning to rank using gradient descent.** *Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, Greg Hullender*. ICML 2005. [paper](https://dl.acm.org/doi/abs/10.1145/1102351.1102363)
 + **From RankNet to LambdaRank toLambdaMART: An Overview.** *Christopher J.C. Burges*. Microsoft Research Technical Report MSR-TR-2010-82. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
 + **Preference learning with Gaussian processes.** *Wei Chu, Zoubin Ghahramani*. ICML 2005. [paper](https://dl.acm.org/doi/abs/10.1145/1102351.1102369)
++ **Collaborative Gaussian Processes forPreference Learning.** *Neil Houlsby et al.*. NIPS 2012. [paper](https://proceedings.neurips.cc/paper/2012/file/afdec7005cc9f14302cd0474fd0f3c96-Paper.pdf)
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
