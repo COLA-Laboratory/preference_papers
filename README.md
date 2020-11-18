@@ -36,6 +36,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Preference learning with Gaussian processes.** *Wei Chu, Zoubin Ghahramani*. ICML 2005. [paper](https://dl.acm.org/doi/abs/10.1145/1102351.1102369)
 + **Collaborative Gaussian Processes forPreference Learning.** *Neil Houlsby et al.*. NIPS 2012. [paper](https://proceedings.neurips.cc/paper/2012/file/afdec7005cc9f14302cd0474fd0f3c96-Paper.pdf)
 + **A preference learning framework for multiple criteria sorting with diverse additive value models and valued assignment examples.** *Jiapeng Liu, Milosz Kadzinski, Xiuwu Liao, Xiaoxin Mao, Yao Wang*.  arXiv:1910.05485v1 [cs.LG] 12 Oct 2019. [paper](https://arxiv.org/abs/1910.05485?context=stat.ML)
++ **A Preference-Based Evolutionary Algorithm for Multi-Objective Optimization.** *Lothar Thiele, Kaisa Miettinen, Pekka J. Korhonen, Julian Molina*. Evolutionary Computation, vol. 17, no. 3, pp. 411-436, Sept. 2009. [paper](https://www.researchgate.net/profile/Julian_Molina/publication/26768807_A_Preference-Based_Evolutionary_Algorithm_for_Multi-Objective_Optimization/links/02e7e525c1d40a2ee9000000.pdf)
++ **R2-EMOA: Focused Multiobjective Search Using R2-Indicator-Based Selection.** *Heike Trautmann, Tobias Wagner, Dimo Brockhoff*. International Conference on Learning and Intelligent Optimization, Spring 2013, pp. 70-74. [paper](https://link.springer.com/chapter/10.1007/978-3-642-44973-4_8)
+
 
 
 
