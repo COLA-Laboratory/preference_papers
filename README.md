@@ -10,6 +10,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 
 ### [Survey Papers](#content)
 + **Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points.** *K. Li, M. Liao, K. Deb, G. Min, X. Yao*. IEEE Trans. Evolutionary Computation, 2020. [paper](https://ieeexplore.ieee.org/document/9066927)
++ **Impact of Number of Interactions, Different Interaction Patterns, and Human Inconsistencies on Some Hybrid Evolutionary Multiobjective Optimization Algorithms.** *Jon Marquis, Esma S. Gel, John W. Fowler, Murat K ̈oksalan, Pekka Korhonen, Jyrki Wallenius*. DECISION SCIENCES 2015. [paper](https://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=319ab0eb-2923-40ce-af0e-5e5a82965daf%40sessionmgr4008)
 
 
 ### [Preference Learning](#content)
@@ -34,7 +35,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Learning to rank using gradient descent.** *Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, Greg Hullender*. ICML 2005. [paper](https://dl.acm.org/doi/abs/10.1145/1102351.1102363)
 + **From RankNet to LambdaRank toLambdaMART: An Overview.** *Christopher J.C. Burges*. Microsoft Research Technical Report MSR-TR-2010-82. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
 + **Preference learning with Gaussian processes.** *Wei Chu, Zoubin Ghahramani*. ICML 2005. [paper](http://www.gatsby.ucl.ac.uk/~chuwei/plgp.htm)
-+ **Collaborative Gaussian Processes for Preference Learning.** *Neil Houlsby et al.*. NIPS 2012. [paper](https://proceedings.neurips.cc/paper/2012/file/afdec7005cc9f14302cd0474fd0f3c96-Paper.pdf)
++ **Collaborative Gaussian Processes for Preference Learning.** *Neil Houlsby et al.*. NeurIPS 2012. [paper](https://proceedings.neurips.cc/paper/2012/file/afdec7005cc9f14302cd0474fd0f3c96-Paper.pdf)
 + **A preference learning framework for multiple criteria sorting with diverse additive value models and valued assignment examples.** *Jiapeng Liu, Milosz Kadzinski, Xiuwu Liao, Xiaoxin Mao, Yao Wang*.  arXiv:1910.05485v1 [cs.LG] 12 Oct 2019. [paper](https://arxiv.org/abs/1910.05485?context=stat.ML)
 + **A Preference-Based Evolutionary Algorithm for Multi-Objective Optimization.** *Lothar Thiele, Kaisa Miettinen, Pekka J. Korhonen, Julian Molina*. Evolutionary Computation, vol. 17, no. 3, pp. 411-436, Sept. 2009. [paper](https://www.researchgate.net/profile/Julian_Molina/publication/26768807_A_Preference-Based_Evolutionary_Algorithm_for_Multi-Objective_Optimization/links/02e7e525c1d40a2ee9000000.pdf)
 + **R2-EMOA: Focused Multiobjective Search Using R2-Indicator-Based Selection.** *Heike Trautmann, Tobias Wagner, Dimo Brockhoff*. International Conference on Learning and Intelligent Optimization, Spring 2013, pp. 70-74. [paper](https://link.springer.com/chapter/10.1007/978-3-642-44973-4_8)
@@ -42,6 +43,14 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **REGRESSION MODELS WITH ORDINAL VARIABLES.** *CHRISTOPHER WINSHIP, ROBERT D. MARE*. American Sociological Review, 1984, Vol. 49 (August:512-525). [paper](https://www.researchgate.net/profile/Chris_Winship/publication/271685623_Regression_Models_with_Ordinal_Variables/links/59fdd526458515d0706a1dc5/Regression-Models-with-Ordinal-Variables.pdf)
 + **Regression Models for Ordinal Data.** *PETER MCCULLAGH*. J. R. Statist. Soc. B (1980), 42, No. 2, pp. 109-142. [paper](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.2517-6161.1980.tb01109.x)
 + **Gaussian Processes for Ordinal Regression.** *Wei Chu, Zoubin Ghahramani*. JMLR 2005. [paper](https://www.jmlr.org/papers/volume6/chu05a/chu05a.pdf)
++ **Constraint Classification for Multiclass Classification and Ranking.** *Sariel Har-Peled, Dan Roth, Dav Zimak*. NeurIPS 2002. [paper](https://proceedings.neurips.cc/paper/2002/file/16026d60ff9b54410b3435b403afd226-Paper.pdf)
++ **A Preference-Based Evolutionary Algorithm for Multi-Objective Optimization.** *Lothar Thiele, Kaisa Miettinen, Pekka J. Korhonen, Julian Molina*. EVCO 2009. [paper](https://ieeexplore.ieee.org/document/6793977)
++ **Preferential Bayesian Optimization.** *Javier González, Zhenwen Dai, Andreas Damianou, Neil D. Lawrence*. ICML 2017. [paper](http://proceedings.mlr.press/v70/gonzalez17a.html)
+
+
+
+
+
 
 
 
