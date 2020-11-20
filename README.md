@@ -39,6 +39,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **A Preference-Based Evolutionary Algorithm for Multi-Objective Optimization.** *Lothar Thiele, Kaisa Miettinen, Pekka J. Korhonen, Julian Molina*. Evolutionary Computation, vol. 17, no. 3, pp. 411-436, Sept. 2009. [paper](https://www.researchgate.net/profile/Julian_Molina/publication/26768807_A_Preference-Based_Evolutionary_Algorithm_for_Multi-Objective_Optimization/links/02e7e525c1d40a2ee9000000.pdf)
 + **R2-EMOA: Focused Multiobjective Search Using R2-Indicator-Based Selection.** *Heike Trautmann, Tobias Wagner, Dimo Brockhoff*. International Conference on Learning and Intelligent Optimization, Spring 2013, pp. 70-74. [paper](https://link.springer.com/chapter/10.1007/978-3-642-44973-4_8)
 + **Multi-objective Bayesian optimisation with preferences over objectives.** *Majid Abdolshah, Alistair Shilton, Santu Rana, Sunil Gupta, Svetha Venkatesh*. NeurIPS 2019. [paper](https://arxiv.org/pdf/1902.04228.pdf)
++ **REGRESSION MODELS WITH ORDINAL VARIABLES.** *CHRISTOPHER WINSHIP, ROBERT D. MARE*. American Sociological Review, 1984, Vol. 49 (August:512-525). [paper](https://www.researchgate.net/profile/Chris_Winship/publication/271685623_Regression_Models_with_Ordinal_Variables/links/59fdd526458515d0706a1dc5/Regression-Models-with-Ordinal-Variables.pdf)
++ **Regression Models for Ordinal Data.** *PETER MCCULLAGH*. J. R. Statist. Soc. B (1980), 42, No. 2, pp. 109-142. [paper](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.2517-6161.1980.tb01109.x)
 
 
 
