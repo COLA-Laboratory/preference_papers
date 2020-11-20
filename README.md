@@ -34,6 +34,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Guessing preferences: A new approach to multi-attribute ranking and selection.** *Peter I. Frazier, Aleksandr M. Kazachkov*. Proceedings of the 2011 Winter Simulation Conference (WSC), Phoenix, AZ, 2011, pp. 4319-4331. [paper](https://ieeexplore.ieee.org/document/6148119?denied=)
 + **Learning to rank using gradient descent.** *Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, Greg Hullender*. ICML 2005. [paper](https://dl.acm.org/doi/abs/10.1145/1102351.1102363)
 + **From RankNet to LambdaRank toLambdaMART: An Overview.** *Christopher J.C. Burges*. Microsoft Research Technical Report MSR-TR-2010-82. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
++ **Gaussian Processes for Ordinal Regression.** *Wei Chu, Zoubin Ghahramani*. JMLR 2005. [paper](https://www.jmlr.org/papers/volume6/chu05a/chu05a.pdf)
 + **Preference learning with Gaussian processes.** *Wei Chu, Zoubin Ghahramani*. ICML 2005. [paper](http://www.gatsby.ucl.ac.uk/~chuwei/plgp.htm)
 + **Collaborative Gaussian Processes for Preference Learning.** *Neil Houlsby et al.*. NeurIPS 2012. [paper](https://proceedings.neurips.cc/paper/2012/file/afdec7005cc9f14302cd0474fd0f3c96-Paper.pdf)
 + **A preference learning framework for multiple criteria sorting with diverse additive value models and valued assignment examples.** *Jiapeng Liu, Milosz Kadzinski, Xiuwu Liao, Xiaoxin Mao, Yao Wang*.  arXiv:1910.05485v1 [cs.LG] 12 Oct 2019. [paper](https://arxiv.org/abs/1910.05485?context=stat.ML)
@@ -42,15 +43,10 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Multi-objective Bayesian optimisation with preferences over objectives.** *Majid Abdolshah, Alistair Shilton, Santu Rana, Sunil Gupta, Svetha Venkatesh*. NeurIPS 2019. [paper](https://arxiv.org/pdf/1902.04228.pdf)
 + **REGRESSION MODELS WITH ORDINAL VARIABLES.** *CHRISTOPHER WINSHIP, ROBERT D. MARE*. American Sociological Review, 1984, Vol. 49 (August:512-525). [paper](https://www.researchgate.net/profile/Chris_Winship/publication/271685623_Regression_Models_with_Ordinal_Variables/links/59fdd526458515d0706a1dc5/Regression-Models-with-Ordinal-Variables.pdf)
 + **Regression Models for Ordinal Data.** *PETER MCCULLAGH*. J. R. Statist. Soc. B (1980), 42, No. 2, pp. 109-142. [paper](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.2517-6161.1980.tb01109.x)
-+ **Gaussian Processes for Ordinal Regression.** *Wei Chu, Zoubin Ghahramani*. JMLR 2005. [paper](https://www.jmlr.org/papers/volume6/chu05a/chu05a.pdf)
 + **Constraint Classification for Multiclass Classification and Ranking.** *Sariel Har-Peled, Dan Roth, Dav Zimak*. NeurIPS 2002. [paper](https://proceedings.neurips.cc/paper/2002/file/16026d60ff9b54410b3435b403afd226-Paper.pdf)
 + **A Preference-Based Evolutionary Algorithm for Multi-Objective Optimization.** *Lothar Thiele, Kaisa Miettinen, Pekka J. Korhonen, Julian Molina*. EVCO 2009. [paper](https://ieeexplore.ieee.org/document/6793977)
 + **Preferential Bayesian Optimization.** *Javier González, Zhenwen Dai, Andreas Damianou, Neil D. Lawrence*. ICML 2017. [paper](http://proceedings.mlr.press/v70/gonzalez17a.html)
-
-
-
-
-
++ **Ordinal Regression With Multiple Output CNN for Age Estimation.** *Zhenxing Niu, Mo Zhou, Le Wang, Xinbo Gao, Gang Hua*. CVPR 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Niu_Ordinal_Regression_With_CVPR_2016_paper.html)
 
 
 
