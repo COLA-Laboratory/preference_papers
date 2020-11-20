@@ -41,7 +41,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Multi-objective Bayesian optimisation with preferences over objectives.** *Majid Abdolshah, Alistair Shilton, Santu Rana, Sunil Gupta, Svetha Venkatesh*. NeurIPS 2019. [paper](https://arxiv.org/pdf/1902.04228.pdf)
 + **REGRESSION MODELS WITH ORDINAL VARIABLES.** *CHRISTOPHER WINSHIP, ROBERT D. MARE*. American Sociological Review, 1984, Vol. 49 (August:512-525). [paper](https://www.researchgate.net/profile/Chris_Winship/publication/271685623_Regression_Models_with_Ordinal_Variables/links/59fdd526458515d0706a1dc5/Regression-Models-with-Ordinal-Variables.pdf)
 + **Regression Models for Ordinal Data.** *PETER MCCULLAGH*. J. R. Statist. Soc. B (1980), 42, No. 2, pp. 109-142. [paper](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.2517-6161.1980.tb01109.x)
-
++ **Gaussian Processes for Ordinal Regression.** *Wei Chu, Zoubin Ghahramani*. JMLR 2005. [paper](https://www.jmlr.org/papers/volume6/chu05a/chu05a.pdf)
 
 
 
