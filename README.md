@@ -64,7 +64,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Interactive Preference Learning of Utility Functions for Multi-Objective Optimization.** *Ian Dewancker, Michael McCourt, Samuel Ainsworth*.  arXiv:1612.04453v2 [math.OC]. [paper](https://arxiv.org/abs/1612.04453v2)
 + **The r-Dominance: A New Dominance Relation for Interactive Evolutionary Multicriteria Decision Making.** *Lamjed Ben Said, Slim Bechikh, Khaled Ghedira*. TEVC 2010. [paper](https://ieeexplore.ieee.org/document/5453088)
 + **On the elicitation of indirect preferences in interactive evolutionary multiple objective optimization.** *Michał K. Tomczyk, MiłOsz KadzińSki*. GECCO 2020. [paper](https://dl.acm.org/doi/10.1145/3377930.3389826)
-+ **Dominance-Based Rough Set Approach to Interactive Evolutionary Multiobjective Optimization.** *Salvatore Greco et al.*. CEC 2010. [paper](https://ieeexplore.ieee.org/document/5585982?arnumber=5585982&tag=1)
++ **Dominance-Based Rough Set Approach to Interactive Evolutionary Multiobjective Optimization.** *Salvatore Greco et al.*. Preferences and Decisions pp 225-260. [paper](https://link.springer.com/chapter/10.1007/978-3-642-15976-3_14)
 
 
 
