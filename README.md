@@ -52,6 +52,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Sequential Preference-Based Optimization.** *Ian Dewancker, Jakob Bauer, Michael McCourt*.  arXiv:1801.02788v1. [paper](https://arxiv.org/abs/1801.02788)
 + **PROJECT Method for Multiobjective Optimization Based on Gradient Projection and Reference Points.** *M. Luque, J. Yang and B. Y. H. Wong*.  IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, vol. 39, no. 4, pp. 864-879, July 2009. [paper](https://ieeexplore.ieee.org/document/5071283)
 + **Preferences in artificial intelligence.** *Pigozzi, G., Tsoukiàs, A. & Viappiani, P.*. Ann Math Artif Intell 77, 361–401 (2016). [paper](https://link.springer.com/article/10.1007%2Fs10472-015-9475-5)
++ **Ordered Preference Elicitation Strategies for Supporting Multi-Objective Decision Making.** *Luisa M Zintgraf, Diederik M Roijers, Sjoerd Linders, Catholijn M Jonker, Ann Nowé*.  arXiv:1802.07606v1. [paper](https://arxiv.org/abs/1802.07606)
 
 
 
