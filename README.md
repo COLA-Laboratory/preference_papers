@@ -76,6 +76,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **EMOSOR: Evolutionary multiple objective optimization guided by interactive stochastic ordinal regression.** *Michał K. Tomczyk, Miłosz Kadziński*. Computers & Operations Research, Volume 108, 2019, Pages 134-154. [paper](https://www.sciencedirect.com/science/article/pii/S0305054819300917)
 + **Towards Automatic Testing of Reference Point Based Interactive Methods.** *Ojalehto V., Podkopaev D., Miettinen K. *. PPSN 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-45823-6_45)
 + **Power to the People: The Role of Humans in Interactive Machine Learning.** *Amershi, S., Cakmak, M., Knox, W. B., & Kulesza, T. *. AI Magazine, 2014, 35(4), 105-120. [paper](https://ojs.aaai.org//index.php/aimagazine/article/view/2513)
++ **Interactive Multiobjective Optimization: A Review of the State-of-the-Art.** *B. Xin, L. Chen, J. Chen, H. Ishibuchi, K. Hirota and B. Liu*. IEEE Access. [paper](https://ieeexplore.ieee.org/document/8412189)
 
 
 
