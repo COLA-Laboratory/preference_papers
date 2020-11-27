@@ -53,6 +53,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **PROJECT Method for Multiobjective Optimization Based on Gradient Projection and Reference Points.** *M. Luque, J. Yang and B. Y. H. Wong*.  IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, vol. 39, no. 4, pp. 864-879, July 2009. [paper](https://ieeexplore.ieee.org/document/5071283)
 + **Preferences in artificial intelligence.** *Pigozzi, G., Tsoukiàs, A. & Viappiani, P.*. Ann Math Artif Intell 77, 361–401 (2016). [paper](https://link.springer.com/article/10.1007%2Fs10472-015-9475-5)
 + **Ordered Preference Elicitation Strategies for Supporting Multi-Objective Decision Making.** *Luisa M Zintgraf, Diederik M Roijers, Sjoerd Linders, Catholijn M Jonker, Ann Nowé*.  arXiv:1802.07606v1. [paper](https://arxiv.org/abs/1802.07606)
++ **Learning Multi-Objective Rewards and User Utility Functionin Contextual Bandits for Personalized Ranking.** *Nirandika Wanigasekara et al. *.  IJCAI 2019. [paper](https://www.researchgate.net/profile/Nirandika_Wanigasekara/publication/334843969_Learning_Multi-Objective_Rewards_and_User_Utility_Function_in_Contextual_Bandits_for_Personalized_Ranking/links/5dcf3c03a6fdcc7e13841817/Learning-Multi-Objective-Rewards-and-User-Utility-Function-in-Contextual-Bandits-for-Personalized-Ranking.pdf)
 
 
 
