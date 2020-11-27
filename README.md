@@ -54,6 +54,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Preferences in artificial intelligence.** *Pigozzi, G., Tsoukiàs, A. & Viappiani, P.*. Ann Math Artif Intell 77, 361–401 (2016). [paper](https://link.springer.com/article/10.1007%2Fs10472-015-9475-5)
 + **Ordered Preference Elicitation Strategies for Supporting Multi-Objective Decision Making.** *Luisa M Zintgraf, Diederik M Roijers, Sjoerd Linders, Catholijn M Jonker, Ann Nowé*.  arXiv:1802.07606v1. [paper](https://arxiv.org/abs/1802.07606)
 + **Learning Multi-Objective Rewards and User Utility Functionin Contextual Bandits for Personalized Ranking.** *Nirandika Wanigasekara et al. *.  IJCAI 2019. [paper](https://www.researchgate.net/profile/Nirandika_Wanigasekara/publication/334843969_Learning_Multi-Objective_Rewards_and_User_Utility_Function_in_Contextual_Bandits_for_Personalized_Ranking/links/5dcf3c03a6fdcc7e13841817/Learning-Multi-Objective-Rewards-and-User-Utility-Function-in-Contextual-Bandits-for-Personalized-Ranking.pdf)
++ **A multi-objective optimization evolutionary algorithm incorporating preference information based on fuzzy logic.** *X Shen, Y Guo, Q Chen, W Hu*. Comput Optim Appl 2010 [paper](file:///C:/Users/ADMINI~1/AppData/Local/Temp/Shen2010_Article_AMulti-objectiveOptimizationEv.pdf)
+
 
 
 
@@ -76,13 +78,12 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **EMOSOR: Evolutionary multiple objective optimization guided by interactive stochastic ordinal regression.** *Michał K. Tomczyk, Miłosz Kadziński*. Computers & Operations Research, Volume 108, 2019, Pages 134-154. [paper](https://www.sciencedirect.com/science/article/pii/S0305054819300917)
 + **Towards Automatic Testing of Reference Point Based Interactive Methods.** *Ojalehto V., Podkopaev D., Miettinen K. *. PPSN 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-45823-6_45)
 + **Power to the People: The Role of Humans in Interactive Machine Learning.** *Amershi, S., Cakmak, M., Knox, W. B., & Kulesza, T. *. AI Magazine, 2014, 35(4), 105-120. [paper](https://ojs.aaai.org//index.php/aimagazine/article/view/2513)
-+ **Interactive Multiobjective Optimization: A Review of the State-of-the-Art.** *B. Xin, L. Chen, J. Chen, H. Ishibuchi, K. Hirota and B. Liu*. IEEE Access. [paper](https://ieeexplore.ieee.org/document/8412189)
-
-
++ **Interactive Multiobjective Optimization: A Review of the State-of-the-Art.** *B. Xin, L. Chen, J. Chen, H. Ishibuchi, K. Hirota and B. Liu*. IEEE Access 2018. [paper](https://ieeexplore.ieee.org/document/8412189)
++ **A virtual-decision-maker library considering personalities and dynamically changing preference structures for interactive multiobjective optimization.** *L. Chen, B. Xin, J. Chen and Juan Li*. CEC 2017. [paper](https://ieeexplore.ieee.org/document/7969370)
++ **A Review and Taxonomy of Interactive Optimization Methods in Operations Research.** *David Meignan et al. *.  ACM Transactions on Interactive Intelligent Systems 2015. [paper](https://www.researchgate.net/profile/David_Meignan/publication/282399980_A_Review_and_Taxonomy_of_Interactive_Optimization_Methods_in_Operations_Research/links/58d4ebd1a6fdcc1bae4e7f69/A-Review-and-Taxonomy-of-Interactive-Optimization-Methods-in-Operations-Research.pdf)
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
-
 
 
 ### [Applications](#applications)
