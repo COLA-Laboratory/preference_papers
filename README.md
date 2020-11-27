@@ -57,7 +57,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **A multi-objective optimization evolutionary algorithm incorporating preference information based on fuzzy logic.** *X Shen, Y Guo, Q Chen, W Hu*. Comput Optim Appl 2010 [paper](https://link.springer.com/content/pdf/10.1007/s10589-008-9189-2.pdf)
 + **An algorithm for projecting a reference direction onto the nondominated set of given points.** *P. Korhonen and J. Karaivanova*. IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans 1999 [paper](https://ieeexplore.ieee.org/document/784168)
 + **An Ontology of Preference-Based Multiobjective Metaheuristics.** *Longmei Li, Iryna Yevseyeva, Vitor Basto-Fernandes, Heike Trautmann, Ning Jing, Michael Emmerich*.  arXiv:1609.08082v2[paper](https://arxiv.org/abs/1609.08082v2)
-
++ **Projective Preferential Bayesian Optimization.** *Petrus Mikkola, Milica Todorović, Jari Järvi, Patrick Rinke, Samuel Kaski*. ICML 2020 [paper](https://arxiv.org/abs/2002.03113v4)
 
 
 
