@@ -54,7 +54,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Preferences in artificial intelligence.** *Pigozzi, G., Tsoukiàs, A. & Viappiani, P.*. Ann Math Artif Intell 77, 361–401 (2016). [paper](https://link.springer.com/article/10.1007%2Fs10472-015-9475-5)
 + **Ordered Preference Elicitation Strategies for Supporting Multi-Objective Decision Making.** *Luisa M Zintgraf, Diederik M Roijers, Sjoerd Linders, Catholijn M Jonker, Ann Nowé*.  arXiv:1802.07606v1. [paper](https://arxiv.org/abs/1802.07606)
 + **Learning Multi-Objective Rewards and User Utility Functionin Contextual Bandits for Personalized Ranking.** *Nirandika Wanigasekara et al. *.  IJCAI 2019. [paper](https://www.researchgate.net/profile/Nirandika_Wanigasekara/publication/334843969_Learning_Multi-Objective_Rewards_and_User_Utility_Function_in_Contextual_Bandits_for_Personalized_Ranking/links/5dcf3c03a6fdcc7e13841817/Learning-Multi-Objective-Rewards-and-User-Utility-Function-in-Contextual-Bandits-for-Personalized-Ranking.pdf)
-+ **A multi-objective optimization evolutionary algorithm incorporating preference information based on fuzzy logic.** *X Shen, Y Guo, Q Chen, W Hu*. Comput Optim Appl 2010 [paper](file:///C:/Users/ADMINI~1/AppData/Local/Temp/Shen2010_Article_AMulti-objectiveOptimizationEv.pdf)
++ **A multi-objective optimization evolutionary algorithm incorporating preference information based on fuzzy logic.** *X Shen, Y Guo, Q Chen, W Hu*. Comput Optim Appl 2010 [paper](https://link.springer.com/content/pdf/10.1007/s10589-008-9189-2.pdf)
++ **An algorithm for projecting a reference direction onto the nondominated set of given points.** *P. Korhonen and J. Karaivanova*. IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans 1999 [paper](https://ieeexplore.ieee.org/document/784168)
++ **An Ontology of Preference-Based Multiobjective Metaheuristics.** *Longmei Li, Iryna Yevseyeva, Vitor Basto-Fernandes, Heike Trautmann, Ning Jing, Michael Emmerich*.  arXiv:1609.08082v2[paper](https://arxiv.org/abs/1609.08082v2)
 
 
 
@@ -92,6 +94,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Mixed-initiative system for tactical planning allowing real-time constraint insertions.** *Jean Bouchard et al.*. IFAC 2017. [paper](https://www.sciencedirect.com/science/article/pii/S2405896317331956)
 + **Preference-Based Learning for Exoskeleton Gait Optimization.** *Maegan Tucker, Ellen Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, Aaron D. Ames*. ICRA 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9196661)
 + **Interactive Genetic Algorithm with Mixed Initiative Interaction for multi-criteria ground water monitoring design.** *Meghna Babbar-Sebens, Barbara S. Minsker*. Applied Soft Computing, Volume 12, Issue 1, 2012, Pages 182-195. [paper](https://www.sciencedirect.com/science/article/pii/S1568494611003371)
++ **An Integrated Multi-Criteria Decision Making Approach to Location Planning of Electric Vehicle Charging Stations.** *H. Liu, M. Yang, M. Zhou and G. Tian*. IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/document/8357970)
 
 
 
