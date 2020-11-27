@@ -47,6 +47,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **A Preference-Based Evolutionary Algorithm for Multi-Objective Optimization.** *Lothar Thiele, Kaisa Miettinen, Pekka J. Korhonen, Julian Molina*. EVCO 2009. [paper](https://ieeexplore.ieee.org/document/6793977)
 + **Preferential Bayesian Optimization.** *Javier González, Zhenwen Dai, Andreas Damianou, Neil D. Lawrence*. ICML 2017. [paper](http://proceedings.mlr.press/v70/gonzalez17a.html)
 + **Ordinal Regression With Multiple Output CNN for Age Estimation.** *Zhenxing Niu, Mo Zhou, Le Wang, Xinbo Gao, Gang Hua*. CVPR 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Niu_Ordinal_Regression_With_CVPR_2016_paper.html)
++ **Data-Driven Preference Learning Methods for Value-Driven Multiple Criteria Sorting with Interacting Criteria.** *Jiapeng Liu, Milosz Kadzinski, Xiuwu Liao, Xiaoxin Mao*.  arXiv:1905.08506v1. [paper](https://arxiv.org/abs/1905.08506v1)
 
 
 
