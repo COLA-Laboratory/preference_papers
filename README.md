@@ -13,7 +13,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Impact of Number of Interactions, Different Interaction Patterns, and Human Inconsistencies on Some Hybrid Evolutionary Multiobjective Optimization Algorithms.** *Jon Marquis, Esma S. Gel, John W. Fowler, Murat K ̈oksalan, Pekka Korhonen, Jyrki Wallenius*. DECISION SCIENCES 2015. [paper](https://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=319ab0eb-2923-40ce-af0e-5e5a82965daf%40sessionmgr4008)
 
 
-### [Preference Learning](#content)
+### [Preference Learning](#models)
 + **A mini-review on preference modeling and articulationin multi-objective optimization: current status and challenges.** *Handing Wang, Markus Olhofer, Yaochu Jin*. Complex Intell. Syst. (2017) 3:233–245. [paper](https://link.springer.com/article/10.1007/s40747-017-0053-9)
 + **Learning Value Functions in Interactive Evolutionary Multiobjective Optimization.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  IEEE Transactions on Evolutionary Computation, 2015. [paper](https://ieeexplore.ieee.org/document/6729055)
 + **Guidance in evolutionary multi-objective optimization.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  2001 Elsevier Science Ltd, 2001. [paper](https://www.sciencedirect.com/science/article/pii/S0965997800001101)
