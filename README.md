@@ -68,6 +68,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **On the elicitation of indirect preferences in interactive evolutionary multiple objective optimization.** *Michał K. Tomczyk, MiłOsz KadzińSki*. GECCO 2020. [paper](https://dl.acm.org/doi/10.1145/3377930.3389826)
 + **Dominance-Based Rough Set Approach to Interactive Evolutionary Multiobjective Optimization.** *Salvatore Greco et al*. Preferences and Decisions, STUDFUZZ 257, pp 225-260. [paper](https://link.springer.com/chapter/10.1007/978-3-642-15976-3_14)
 + **EMOSOR: Evolutionary multiple objective optimization guided by interactive stochastic ordinal regression.** *Michał K. Tomczyk, Miłosz Kadziński*. Computers & Operations Research, Volume 108, 2019, Pages 134-154. [paper](https://www.sciencedirect.com/science/article/pii/S0305054819300917)
++ **Towards Automatic Testing of Reference Point Based Interactive Methods.** *Ojalehto V., Podkopaev D., Miettinen K. *. PPSN 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-45823-6_45)
+
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
