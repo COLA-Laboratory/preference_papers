@@ -83,6 +83,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Interactive Multiobjective Optimization: A Review of the State-of-the-Art.** *B. Xin, L. Chen, J. Chen, H. Ishibuchi, K. Hirota and B. Liu*. IEEE Access 2018. [paper](https://ieeexplore.ieee.org/document/8412189)
 + **A virtual-decision-maker library considering personalities and dynamically changing preference structures for interactive multiobjective optimization.** *L. Chen, B. Xin, J. Chen and Juan Li*. CEC 2017. [paper](https://ieeexplore.ieee.org/document/7969370)
 + **A Review and Taxonomy of Interactive Optimization Methods in Operations Research.** *David Meignan et al. *.  ACM Transactions on Interactive Intelligent Systems 2015. [paper](https://www.researchgate.net/profile/David_Meignan/publication/282399980_A_Review_and_Taxonomy_of_Interactive_Optimization_Methods_in_Operations_Research/links/58d4ebd1a6fdcc1bae4e7f69/A-Review-and-Taxonomy-of-Interactive-Optimization-Methods-in-Operations-Research.pdf)
++ **Equivalent Information for Multiobjective Interactive Procedures.** *Mariano Luque, Rafael Caballero, Julian Molina, Francisco Ruiz*. Management Science 2007. [paper](https://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=bf201f0e-e6b3-4d7e-9db1-0d3a038dc7a9%40sessionmgr4008)
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
