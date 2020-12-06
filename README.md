@@ -58,6 +58,10 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **An algorithm for projecting a reference direction onto the nondominated set of given points.** *P. Korhonen and J. Karaivanova*. IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans 1999 [paper](https://ieeexplore.ieee.org/document/784168)
 + **An Ontology of Preference-Based Multiobjective Metaheuristics.** *Longmei Li, Iryna Yevseyeva, Vitor Basto-Fernandes, Heike Trautmann, Ning Jing, Michael Emmerich*.  arXiv:1609.08082v2[paper](https://arxiv.org/abs/1609.08082v2)
 + **Projective Preferential Bayesian Optimization.** *Petrus Mikkola, Milica Todorović, Jari Järvi, Patrick Rinke, Samuel Kaski*. ICML 2020 [paper](https://arxiv.org/abs/2002.03113v4)
++ **A Deep Look into Neural Ranking Models for Information Retrieval.** *Jiafeng Guo et al*. arXiv:1903.06902v3 [paper](https://arxiv.org/abs/1903.06902v3)
++ **Learning Subjective Functions with Large Margins.** *Claude-Nicolas Fiechter, Seth Rogers*.ICML 2000[paper](http://www.isle.org/~langley/papers/route.icml2000.pdf)
+
+
 
 
 
