@@ -63,7 +63,10 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Learning Preferences for Multiclass Problems.** *Fabio Aiolli, Alessandro Sperduti*. NeurIPS 2004 [paper](https://papers.nips.cc/paper/2004/file/5b168fdba5ee5ea262cc2d4c0b457697-Paper.pdf)
 + **Feature Subset Selection for Learning Preferences: A Case Study.** *Antonio Bahamonde et al*. ICML 2004 [paper](https://icml.cc/Conferences/2004/proceedings/papers/170.pdf)
 + **Active Learning of Label Ranking Functions.** *Klaus Brinker*. ICML 2004 [paper](https://icml.cc/Conferences/2004/proceedings/papers/2.pdf)
-+ **Sparse Online Gaussian Processes.** * Lehel Csato, Manfred Opper*. Neural Computation 2002 [paper](https://eprints.soton.ac.uk/259182/)
++ **Sparse Online Gaussian Processes.** *Lehel Csato, Manfred Opper*. Neural Computation 2002 [paper](https://eprints.soton.ac.uk/259182/)
++ **Log-Linear Models for Label Ranking.** *Ofer Dekel et al*. ICML 2004 [paper](https://nlp.stanford.edu/pubs/dekel2004ranking.pdf)
++ **Prospects for Preferences.** *Jon Doyle*. Computational Intelligence 2004 [paper](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=171B999DF3BB7AF34C4B56AB508A71D4?doi=10.1.1.167.9246&rep=rep1&type=pdf)
+
 
 
 
