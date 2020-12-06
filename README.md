@@ -59,10 +59,11 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **An Ontology of Preference-Based Multiobjective Metaheuristics.** *Longmei Li, Iryna Yevseyeva, Vitor Basto-Fernandes, Heike Trautmann, Ning Jing, Michael Emmerich*.  arXiv:1609.08082v2[paper](https://arxiv.org/abs/1609.08082v2)
 + **Projective Preferential Bayesian Optimization.** *Petrus Mikkola, Milica Todorović, Jari Järvi, Patrick Rinke, Samuel Kaski*. ICML 2020 [paper](https://arxiv.org/abs/2002.03113v4)
 + **A Deep Look into Neural Ranking Models for Information Retrieval.** *Jiafeng Guo et al*. arXiv:1903.06902v3 [paper](https://arxiv.org/abs/1903.06902v3)
-+ **Learning Subjective Functions with Large Margins.** *Claude-Nicolas Fiechter, Seth Rogers*.ICML 2000[paper](http://www.isle.org/~langley/papers/route.icml2000.pdf)
-
-
-
++ **Learning Subjective Functions with Large Margins.** *Claude-Nicolas Fiechter, Seth Rogers*. ICML 2000 [paper](http://www.isle.org/~langley/papers/route.icml2000.pdf)
++ **Learning Preferences for Multiclass Problems.** *Fabio Aiolli, Alessandro Sperduti*. NeurIPS 2004 [paper](https://papers.nips.cc/paper/2004/file/5b168fdba5ee5ea262cc2d4c0b457697-Paper.pdf)
++ **Feature Subset Selection for Learning Preferences: A Case Study.** *Antonio Bahamonde et al*. ICML 2004 [paper](https://icml.cc/Conferences/2004/proceedings/papers/170.pdf)
++ **Active Learning of Label Ranking Functions.** *Klaus Brinker*. ICML 2004 [paper](https://icml.cc/Conferences/2004/proceedings/papers/2.pdf)
++ **Sparse Online Gaussian Processes.** * Lehel Csato, Manfred Opper*. Neural Computation 2002 [paper](https://eprints.soton.ac.uk/259182/)
 
 
 
