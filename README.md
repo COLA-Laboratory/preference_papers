@@ -66,6 +66,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Sparse Online Gaussian Processes.** *Lehel Csato, Manfred Opper*. Neural Computation 2002 [paper](https://eprints.soton.ac.uk/259182/)
 + **Log-Linear Models for Label Ranking.** *Ofer Dekel et al*. ICML 2004 [paper](https://nlp.stanford.edu/pubs/dekel2004ranking.pdf)
 + **Prospects for Preferences.** *Jon Doyle*. Computational Intelligence 2004 [paper](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=171B999DF3BB7AF34C4B56AB508A71D4?doi=10.1.1.167.9246&rep=rep1&type=pdf)
++ **Deep Reinforcement Learning from Human Preferences.** *Paul F Christiano et al*. NeurIPS 2017 [paper](https://papers.nips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
 
 
 
