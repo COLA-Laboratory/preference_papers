@@ -107,6 +107,6 @@ This is an archive of papers related to preference learning, interactive multi-o
 + **Preference-Based Learning for Exoskeleton Gait Optimization.** *Maegan Tucker, Ellen Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, Aaron D. Ames*. ICRA 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9196661)
 + **Interactive Genetic Algorithm with Mixed Initiative Interaction for multi-criteria ground water monitoring design.** *Meghna Babbar-Sebens, Barbara S. Minsker*. Applied Soft Computing, Volume 12, Issue 1, 2012, Pages 182-195. [paper](https://www.sciencedirect.com/science/article/pii/S1568494611003371)
 + **An Integrated Multi-Criteria Decision Making Approach to Location Planning of Electric Vehicle Charging Stations.** *H. Liu, M. Yang, M. Zhou and G. Tian*. IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/document/8357970)
-
++ [**A Probabilistic Method for Inferring Preferences from Clicks.**](http://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/hofmanncikm11.pdf) *Katja Hofmann et al*. International Conference on Information and Knowledge Management 2011.
 
 
