@@ -14,9 +14,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 
 
 ### [Preference Learning](#models)
-+ **A mini-review on preference modeling and articulationin multi-objective optimization: current status and challenges.** *Handing Wang, Markus Olhofer, Yaochu Jin*. Complex Intell. Syst. (2017) 3:233–245. [paper](https://link.springer.com/article/10.1007/s40747-017-0053-9)
-+ **Learning Value Functions in Interactive Evolutionary Multiobjective Optimization.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  IEEE Transactions on Evolutionary Computation, 2015. [paper](https://ieeexplore.ieee.org/document/6729055)
-+ **Guidance in evolutionary multi-objective optimization.** *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  2001 Elsevier Science Ltd, 2001. [paper](https://www.sciencedirect.com/science/article/pii/S0965997800001101)
++ [**A mini-review on preference modeling and articulationin multi-objective optimization: current status and challenges.**](https://link.springer.com/article/10.1007/s40747-017-0053-9) *Handing Wang, Markus Olhofer, Yaochu Jin*. Complex Intell. Syst. (2017) 3:233–245.
++ [**Learning Value Functions in Interactive Evolutionary Multiobjective Optimization.**](https://ieeexplore.ieee.org/document/6729055) *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  IEEE Transactions on Evolutionary Computation, 2015.
++ [**Guidance in evolutionary multi-objective optimization.**](https://www.sciencedirect.com/science/article/pii/S0965997800001101) *Jürgen Branke, Salvatore Greco, Roman Słowiński, Piotr Zielniewicz*.  2001 Elsevier Science Ltd, 2001.
 + **Multi-objective Evolutionary Algorithms: Introducing Bias Among Pareto-optimal Solutions.** *Kalyanmoy Deb*.  Advances in Evolutionary Computing pp 263-292, 2003. [paper](https://link.springer.com/chapter/10.1007%2F978-3-642-18965-4_10)
 + **A review of hybrid evolutionary multiple criteria decision making methods.** *Robin C. Purshouse, Kalyanmoy Deb, Maszatul M. Mansor, Sanaz Mostaghim, Rui Wang*.  CEC 2014. [paper](https://ieeexplore.ieee.org/document/6900368)
 + **Reference Point Based Multi-ObjectiveOptimization Using Evolutionary Algorithms.** *Kalyanmoy Deb, J. Sundar*.  GECCO 2006. [paper](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=074A39C07034A6DEDA4A22E3EF83EB27?doi=10.1.1.123.1541&rep=rep1&type=pdf)
