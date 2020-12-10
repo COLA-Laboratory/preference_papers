@@ -9,7 +9,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 5. [Applications](#applications)
 
 ### [Survey Papers](#survey-papers)
-+ **Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points.** *K. Li, M. Liao, K. Deb, G. Min, X. Yao*. IEEE Trans. Evolutionary Computation, 2020. [paper](https://ieeexplore.ieee.org/document/9066927)
++ [**Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points.**](https://ieeexplore.ieee.org/document/9066927) *K. Li, M. Liao, K. Deb, G. Min, X. Yao*. IEEE Trans. Evolutionary Computation, 2020. [paper](https://ieeexplore.ieee.org/document/9066927)
 + **Impact of Number of Interactions, Different Interaction Patterns, and Human Inconsistencies on Some Hybrid Evolutionary Multiobjective Optimization Algorithms.** *Jon Marquis, Esma S. Gel, John W. Fowler, Murat K ̈oksalan, Pekka Korhonen, Jyrki Wallenius*. DECISION SCIENCES 2015. [paper](https://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=319ab0eb-2923-40ce-af0e-5e5a82965daf%40sessionmgr4008)
 
 
