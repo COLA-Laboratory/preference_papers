@@ -96,6 +96,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
++ [**Regularized estimation for preference disaggregation in multiple criteria decision making.**](https://link.springer.com/article/10.1007/s10589-007-9037-9) *Doumpos, M., Zopounidis, C.*. Comput Optim Appl 38, 61–80 (2007).
+
 
 
 ### [Applications](#applications)
