@@ -70,6 +70,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Preference learning along multiple criteria:A game-theoretic perspective.**](https://papers.nips.cc/paper/2020/file/52f4691a4de70b3c441bca6c546979d9-Paper.pdf) *Kush Bhatia et al*. NeurIPS 2020
 + [**Label ranking by learning pairwise preferences.**](https://www.sciencedirect.com/science/article/pii/S000437020800101X) *Eyke Hüllermeier, Johannes Fürnkranz, Weiwei Cheng, Klaus Brinker*. Artificial Intelligence, Volume 172, Issues 16–17, 2008, Pages 1897-1916.
 + [**Learning Reward Functions by Integrating Human Demonstrations and Preferences.**](https://arxiv.org/abs/1906.08928v1) *Malayandi Palan et al*. arXiv:1906.08928v1, 2019
++ [**Active preference learning for generative adversarial networks.**](https://ieeexplore.ieee.org/document/8258471) *M. Kazama and V. Takahashi*. IEEE International Conference on Big Data, 2017
 
 
 
