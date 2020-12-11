@@ -72,6 +72,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Learning Reward Functions by Integrating Human Demonstrations and Preferences.**](https://arxiv.org/abs/1906.08928v1) *Malayandi Palan et al*. arXiv:1906.08928v1, 2019
 + [**Active preference learning for generative adversarial networks.**](https://ieeexplore.ieee.org/document/8258471) *M. Kazama and V. Takahashi*. IEEE International Conference on Big Data, 2017
 + [**Development of interactive multi-objective reinforcement learning considering preference structure of a decision maker.**](https://ieeexplore.ieee.org/document/8203579) *H. Yamamoto, T. Hayashida, I. Nishizaki and S. Sekizaki*. 2017 IEEE 10th International Workshop on Computational Intelligence and Applications (IWCIA)
++ [**A pairwise learning to rank algorithm based on bounded loss and preference weight.**](https://ieeexplore.ieee.org/document/8244044) *X. Tang, D. Xiong, J. Li and Y. Wan*. 2017 Chinese Automation Congress (CAC)
++ [**Pairwise kernel-based preference learning for multiple criteria decision making.**](https://ieeexplore.ieee.org/document/8100359) *L. Lyubchyk and G. Grinberg*. 2017 IEEE First Ukraine Conference on Electrical and Computer Engineering (UKRCON)
 
 
 
