@@ -76,7 +76,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Pairwise kernel-based preference learning for multiple criteria decision making.**](https://ieeexplore.ieee.org/document/8100359) *L. Lyubchyk and G. Grinberg*. 2017 IEEE First Ukraine Conference on Electrical and Computer Engineering (UKRCON)
 + [**Learning to Rank for Information Retrieval and Natural Language Processing.**](https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6813405.pdf&bkn=6813404&pdfType=book) *Hang Li*. Morgan & Claypool, 2011
 + [**Multi-Task Learning for Document Ranking and Query Suggestion.**](https://openreview.net/pdf?id=SJ1nzBeA-) *Wasi Uddin Ahmad, Kai-Wei Chang, Hongning Wang*. ICLR 2018
-+ [**Learning to Rank for Information Retrieval.**](https://link.springer.com/book/10.1007/978-3-642-14267-3) *Tie-Yan Liu*.
++ [**Learning to Rank for Information Retrieval.**](https://link.springer.com/book/10.1007/978-3-642-14267-3) *Tie-Yan Liu*. Now Publishers Inc. 2009
 
 
 
