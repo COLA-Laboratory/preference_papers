@@ -77,7 +77,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Learning to Rank for Information Retrieval and Natural Language Processing.**](https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6813405.pdf&bkn=6813404&pdfType=book) *Hang Li*. Morgan & Claypool, 2011
 + [**Multi-Task Learning for Document Ranking and Query Suggestion.**](https://openreview.net/pdf?id=SJ1nzBeA-) *Wasi Uddin Ahmad, Kai-Wei Chang, Hongning Wang*. ICLR 2018
 + [**Learning to Rank for Information Retrieval.**](https://link.springer.com/book/10.1007/978-3-642-14267-3) *Tie-Yan Liu*. Now Publishers Inc. 2009
-+ [**Nonlinear multiobjective optimization.**](https://link.springer.com/book/10.1007/978-3-642-14267-3) *Tie-Yan Liu*. Now Publishers Inc. 2009
++ [**Using Choquet integral as preference model in interactive evolutionary multiobjective optimization.**](https://researchportal.port.ac.uk/portal/files/3458844/GRECO_2016_cright_EJOR_Using_Choquet_Integral_as_Preference_Model_in_Interactive_Evolutionary.pdf) *Branke, Juergen, et al.*. European Journal of Operational Research 250.3 (2016): 884-901.
+
+
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
@@ -105,6 +107,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**An interactive simple indicator-based evolutionary algorithm (I-SIBEA) for multiobjective optimization problems.**](https://jyx.jyu.fi/bitstream/handle/123456789/59289/chughsindhyahakanenmiettinen.pdf?sequence=1) *Chugh T, Sindhya K, Hakanen J, et al.*. International Conference on Evolutionary Multi-Criterion Optimization. Springer, Cham, 2015: 277-291.
 + [**Interactive method NIMBUS for nondifferentiable multiobjective optimization problems.**](https://link.springer.com/chapter/10.1007/978-3-642-60667-0_30) *Miettinen K, Mäkelä M M*. Multicriteria Analysis. Springer, Berlin, Heidelberg, 1997: 310-319.
 + [**NAUTILUS method: An interactive technique in multiobjective optimization based on the nadir point.**](https://link.springer.com/chapter/10.1007/978-3-642-60667-0_30) *Miettinen, Kaisa, et al.*. European Journal of Operational Research 206.2 (2010): 426-434.
++ [**Novel interactive preference-based multi-objective evolutionary optimization for bolt supporting networks.**](https://ieeexplore.ieee.org/abstract/document/8890620) *Guo, Yi-Nan, et al.*. IEEE Transactions on Evolutionary Computation (2019).
++ [**Gradient projection and local region search for multiobjective optimisation.**](https://personalpages.manchester.ac.uk/staff/jian-bo.yang/JB%20Yang%20Journal_Papers/Gradient-projection.pdf) *Yang, Jian-Bo*. European journal of operational research 112.2 (1999): 432-459.
++ [**Normal vector identification and interactive tradeoff analysis using minimax formulation in multiobjective optimization.**](https://personalpages.manchester.ac.uk/staff/jian-bo.yang/JB%20Yang%20Journal_Papers/Normal-vector-IEEE.pdf) *Yang, Jian-Bo, and Duan Li*. IEEE Transactions on Systems, Man, And Cybernetics-Part A: Systems and Humans 32.3 (2002): 305-319.
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 + [**Regularized estimation for preference disaggregation in multiple criteria decision making.**](https://link.springer.com/article/10.1007/s10589-007-9037-9) *Doumpos, M., Zopounidis, C.*. Comput Optim Appl 38, 61–80 (2007).
@@ -119,5 +124,6 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Interactive Genetic Algorithm with Mixed Initiative Interaction for multi-criteria ground water monitoring design.**](https://www.sciencedirect.com/science/article/pii/S1568494611003371) *Meghna Babbar-Sebens, Barbara S. Minsker*. Applied Soft Computing, Volume 12, Issue 1, 2012, Pages 182-195.
 + [**An Integrated Multi-Criteria Decision Making Approach to Location Planning of Electric Vehicle Charging Stations.**](https://ieeexplore.ieee.org/document/8357970) *H. Liu, M. Yang, M. Zhou and G. Tian*. IEEE Transactions on Intelligent Transportation Systems 2019.
 + [**A Probabilistic Method for Inferring Preferences from Clicks.**](http://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/hofmanncikm11.pdf) *Katja Hofmann et al*. International Conference on Information and Knowledge Management 2011.
+
 
 
