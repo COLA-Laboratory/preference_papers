@@ -77,7 +77,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Learning to Rank for Information Retrieval and Natural Language Processing.**](https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6813405.pdf&bkn=6813404&pdfType=book) *Hang Li*. Morgan & Claypool, 2011
 + [**Multi-Task Learning for Document Ranking and Query Suggestion.**](https://openreview.net/pdf?id=SJ1nzBeA-) *Wasi Uddin Ahmad, Kai-Wei Chang, Hongning Wang*. ICLR 2018
 + [**Learning to Rank for Information Retrieval.**](https://link.springer.com/book/10.1007/978-3-642-14267-3) *Tie-Yan Liu*. Now Publishers Inc. 2009
-
++ [**Nonlinear multiobjective optimization.**](https://link.springer.com/book/10.1007/978-3-642-14267-3) *Tie-Yan Liu*. Now Publishers Inc. 2009
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
@@ -102,7 +102,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**A virtual-decision-maker library considering personalities and dynamically changing preference structures for interactive multiobjective optimization.**](https://ieeexplore.ieee.org/document/7969370) *L. Chen, B. Xin, J. Chen and Juan Li*. CEC 2017.
 + [**A Review and Taxonomy of Interactive Optimization Methods in Operations Research.**](https://www.researchgate.net/profile/David_Meignan/publication/282399980_A_Review_and_Taxonomy_of_Interactive_Optimization_Methods_in_Operations_Research/links/58d4ebd1a6fdcc1bae4e7f69/A-Review-and-Taxonomy-of-Interactive-Optimization-Methods-in-Operations-Research.pdf) *David Meignan et al. *.  ACM Transactions on Interactive Intelligent Systems 2015.
 + [**Equivalent Information for Multiobjective Interactive Procedures.**](https://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=bf201f0e-e6b3-4d7e-9db1-0d3a038dc7a9%40sessionmgr4008) *Mariano Luque, Rafael Caballero, Julian Molina, Francisco Ruiz*. Management Science 2007.
-
++ [**An interactive simple indicator-based evolutionary algorithm (I-SIBEA) for multiobjective optimization problems.**](https://jyx.jyu.fi/bitstream/handle/123456789/59289/chughsindhyahakanenmiettinen.pdf?sequence=1) *Chugh T, Sindhya K, Hakanen J, et al.*. International Conference on Evolutionary Multi-Criterion Optimization. Springer, Cham, 2015: 277-291.
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 + [**Regularized estimation for preference disaggregation in multiple criteria decision making.**](https://link.springer.com/article/10.1007/s10589-007-9037-9) *Doumpos, M., Zopounidis, C.*. Comput Optim Appl 38, 61–80 (2007).
