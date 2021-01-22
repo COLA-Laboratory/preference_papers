@@ -104,11 +104,12 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Equivalent Information for Multiobjective Interactive Procedures.**](https://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=bf201f0e-e6b3-4d7e-9db1-0d3a038dc7a9%40sessionmgr4008) *Mariano Luque, Rafael Caballero, Julian Molina, Francisco Ruiz*. Management Science 2007.
 + [**An interactive simple indicator-based evolutionary algorithm (I-SIBEA) for multiobjective optimization problems.**](https://jyx.jyu.fi/bitstream/handle/123456789/59289/chughsindhyahakanenmiettinen.pdf?sequence=1) *Chugh T, Sindhya K, Hakanen J, et al.*. International Conference on Evolutionary Multi-Criterion Optimization. Springer, Cham, 2015: 277-291.
 + [**Interactive method NIMBUS for nondifferentiable multiobjective optimization problems.**](https://link.springer.com/chapter/10.1007/978-3-642-60667-0_30) *Miettinen K, Mäkelä M M*. Multicriteria Analysis. Springer, Berlin, Heidelberg, 1997: 310-319.
++ [**NAUTILUS method: An interactive technique in multiobjective optimization based on the nadir point.**](https://link.springer.com/chapter/10.1007/978-3-642-60667-0_30) *Miettinen, Kaisa, et al.*. European Journal of Operational Research 206.2 (2010): 426-434.
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 + [**Regularized estimation for preference disaggregation in multiple criteria decision making.**](https://link.springer.com/article/10.1007/s10589-007-9037-9) *Doumpos, M., Zopounidis, C.*. Comput Optim Appl 38, 61–80 (2007).
 
-
+ 
 
 ### [Applications](#applications)
 + [**A two-stage preference-based evolutionary multi-objective approach for capability planning problems.**](https://www.sciencedirect.com/science/article/pii/S0950705112000378) *JianXiong, Ke-weiYang, JingLiu, Qing-songZhao, Ying-wuChen*. Knowledge-Based Systems 31(2012) Pages 128-139.
