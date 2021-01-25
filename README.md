@@ -78,7 +78,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Multi-Task Learning for Document Ranking and Query Suggestion.**](https://openreview.net/pdf?id=SJ1nzBeA-) *Wasi Uddin Ahmad, Kai-Wei Chang, Hongning Wang*. ICLR 2018
 + [**Learning to Rank for Information Retrieval.**](https://link.springer.com/book/10.1007/978-3-642-14267-3) *Tie-Yan Liu*. Now Publishers Inc. 2009
 + [**Using Choquet integral as preference model in interactive evolutionary multiobjective optimization.**](https://researchportal.port.ac.uk/portal/files/3458844/GRECO_2016_cright_EJOR_Using_Choquet_Integral_as_Preference_Model_in_Interactive_Evolutionary.pdf) *Branke, Juergen, et al.*. European Journal of Operational Research 250.3 (2016): 884-901.
-
++ [**A Territory Defining Multiobjective Evolutionary Algorithms and Preference Incorporation.**](https://ieeexplore.ieee.org/abstract/document/5453087) *I. Karahan and M. Koksalan*. IEEE Transactions on Evolutionary Computation 2010
 
 
 
