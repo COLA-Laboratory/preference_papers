@@ -80,6 +80,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Using Choquet integral as preference model in interactive evolutionary multiobjective optimization.**](https://researchportal.port.ac.uk/portal/files/3458844/GRECO_2016_cright_EJOR_Using_Choquet_Integral_as_Preference_Model_in_Interactive_Evolutionary.pdf) *Branke, Juergen, et al.*. European Journal of Operational Research 250.3 (2016): 884-901.
 + [**A Territory Defining Multiobjective Evolutionary Algorithms and Preference Incorporation.**](https://ieeexplore.ieee.org/abstract/document/5453087) *I. Karahan and M. Koksalan*. IEEE Transactions on Evolutionary Computation 2010
 + [**Progressive Preference Learning: Proof-of-Principle Results in MOEA/D.**](https://link.springer.com/chapter/10.1007/978-3-030-12598-1_50) *Ke Li*. EMO 2019
++ [**Preferences and their application in evolutionary multiobjective optimization.**](https://ieeexplore.ieee.org/iel5/4235/21241/00985691.pdf?casa_token=ocbjdcveZNgAAAAA:OsEXEYs7Jl5AUMAZU3fo2CDLEb4t48861rdDnZ13recJwLX6Qu2XsFIXRw2SBcA_e8wSkOh3Lw) *Cvetkovic D, Parmee IC*. TEVC 2002
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
