@@ -110,6 +110,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Novel interactive preference-based multi-objective evolutionary optimization for bolt supporting networks.**](https://ieeexplore.ieee.org/abstract/document/8890620) *Guo, Yi-Nan, et al.*. IEEE Transactions on Evolutionary Computation (2019).
 + [**Gradient projection and local region search for multiobjective optimisation.**](https://personalpages.manchester.ac.uk/staff/jian-bo.yang/JB%20Yang%20Journal_Papers/Gradient-projection.pdf) *Yang, Jian-Bo*. European journal of operational research 112.2 (1999): 432-459.
 + [**Normal vector identification and interactive tradeoff analysis using minimax formulation in multiobjective optimization.**](https://personalpages.manchester.ac.uk/staff/jian-bo.yang/JB%20Yang%20Journal_Papers/Normal-vector-IEEE.pdf) *Yang, Jian-Bo, and Duan Li*. IEEE Transactions on Systems, Man, And Cybernetics-Part A: Systems and Humans 32.3 (2002): 305-319.
++ [**An Interactive Territory Defining Evolutionary Algorithm: iTDEA.**](https://ieeexplore.ieee.org/document/5585741) *M. Köksalan and İ. Karahan*. IEEE Transactions on Evolutionary Computation 2010
+
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 + [**Regularized estimation for preference disaggregation in multiple criteria decision making.**](https://link.springer.com/article/10.1007/s10589-007-9037-9) *Doumpos, M., Zopounidis, C.*. Comput Optim Appl 38, 61–80 (2007).
