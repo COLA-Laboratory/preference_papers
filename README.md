@@ -113,6 +113,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Gradient projection and local region search for multiobjective optimisation.**](https://personalpages.manchester.ac.uk/staff/jian-bo.yang/JB%20Yang%20Journal_Papers/Gradient-projection.pdf) *Yang, Jian-Bo*. European journal of operational research 112.2 (1999): 432-459.
 + [**Normal vector identification and interactive tradeoff analysis using minimax formulation in multiobjective optimization.**](https://personalpages.manchester.ac.uk/staff/jian-bo.yang/JB%20Yang%20Journal_Papers/Normal-vector-IEEE.pdf) *Yang, Jian-Bo, and Duan Li*. IEEE Transactions on Systems, Man, And Cybernetics-Part A: Systems and Humans 32.3 (2002): 305-319.
 + [**An Interactive Territory Defining Evolutionary Algorithm: iTDEA.**](https://ieeexplore.ieee.org/document/5585741) *M. Köksalan and İ. Karahan*. IEEE Transactions on Evolutionary Computation 2010
++ [**A Tradeoff-Based Interactive Multi-Objective Optimization Method Driven by Evolutionary Algorithms.**](https://www.researchgate.net/profile/Bin_Xin4/publication/316065495_A_Tradeoff-Based_Interactive_Multi-Objective_Optimization_Method_Driven_by_Evolutionary_Algorithms/links/5a25e62baca2727dd880ecb4/A-Tradeoff-Based-Interactive-Multi-Objective-Optimization-Method-Driven-by-Evolutionary-Algorithms.pdf) *Chen, Lu, Bin Xin, and Jie Chen.*. Journal of Advanced Computational Intelligence and Intelligent Informatics 21, no. 2 (2017): 284-292.
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
