@@ -84,6 +84,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Incorporation Of Fuzzy Preferences Into Evolutionary Multiobjective Optimization.**](http://www.soft-computing.de/Jin_seal2002.pdf) *Y Jin, B Sendhoff*. GECCO 2002
 + [**Evolutionary algorithms with preference polyhedron for interval multi-objective optimization problems.**](https://www.sciencedirect.com/science/article/pii/S0020025513000777) *Gong, Dunwei, Jing Sun, and Xinfang Ji*. Information Sciences 233 (2013): 141-161.
  + [**Learning preference and structured data: Theory and applications.**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.321.5754&rep=rep1&type=pdf) *Menchetti, Sauro*. PhD diss., PhD thesis, Dipartimento di Sistemi e Informatica, DSI, Universita di Firenze, Italy, 2005.
+ + [**A Short Introduction to Learning to Rank.**](https://pdfs.semanticscholar.org/0ec1/d263a0618d51da6b456a2591c7ef09523071.pdf?_ga=2.265784845.364444507.1611800116-1236669094.1610524347) *H. Li*. IEICE Trans. Inf. Syst. 94-D (2011): 1854-1862.
+
+
 
 ### [Interactive Multi-Objective Optimization](#iemo)
 + [**Interactive Multiobjective Evolutionary Algorithms.**](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7) *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008.
