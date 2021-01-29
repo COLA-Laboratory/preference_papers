@@ -84,8 +84,11 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Evolutionary algorithms with preference polyhedron for interval multi-objective optimization problems.**](https://www.sciencedirect.com/science/article/pii/S0020025513000777) *Gong, Dunwei, Jing Sun, and Xinfang Ji*. Information Sciences 233 (2013): 141-161.
  + [**Learning preference and structured data: Theory and applications.**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.321.5754&rep=rep1&type=pdf) *Menchetti, Sauro*. PhD diss., PhD thesis, Dipartimento di Sistemi e Informatica, DSI, Universita di Firenze, Italy, 2005.
  + [**A Short Introduction to Learning to Rank.**](https://pdfs.semanticscholar.org/0ec1/d263a0618d51da6b456a2591c7ef09523071.pdf?_ga=2.265784845.364444507.1611800116-1236669094.1610524347) *H. Li*. IEICE Trans. Inf. Syst. 94-D (2011): 1854-1862.
-
-
++ [**Integration of preferences in hypervolume-based multiobjective evolutionary algorithms by means of desirability functions.**](https://www.academia.edu/download/46519516/Integration_of_Preferences_in_Hypervolum20160615-21218-1clsxr6.pdf) *Wagner, Tobias, and Heike Trautmann*. IEEE Transactions on Evolutionary Computation 14.5 (2010): 688-701.
++ [**Learning preference models in recommender systems.**](https://www.academia.edu/download/30470669/preference_learning.pdf) *De Gemmis, Marco, et al*. Preference Learning. Springer, Berlin, Heidelberg, 2010. 387-407.
++ [**Learning to adaptively rank document retrieval system configurations.**](https://hal.archives-ouvertes.fr/hal-02092955/document) *Deveaud, Romain, et al*. ACM Transactions on Information Systems (TOIS) 37.1 (2018): 1-41.
++ [**Learning to Rank for Collaborative Filtering.**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.329.5594&rep=rep1&type=pdf) *Pessiot, Jean-Francois, et al*. ICEIS (2) 7 (2007).
++ [**A stochastic learning-to-rank algorithm and its application to contextual advertising.**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.259&rep=rep1&type=pdf) *Karimzadehgan, Maryam, et al*. Proceedings of the 20th international conference on World wide web. 2011.
 
 ### [Interactive Multi-Objective Optimization](#iemo)
 + [**Interactive Multiobjective Evolutionary Algorithms.**](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7) *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008.
