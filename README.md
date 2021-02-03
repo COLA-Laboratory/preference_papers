@@ -96,6 +96,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Preference articulation by means of the R2 indicator.**](https://hal.inria.fr/docs/00/80/78/67/PDF/paperR2_authorversion.pdf) *Wagner, Tobias, Heike Trautmann, and Dimo Brockhoff*. International Conference on Evolutionary Multi-Criterion Optimization. Springer, Berlin, Heidelberg, 2013.
 + [**A Progressively Interactive MCDM Method for Portfolio Optimization Problem.**](https://www.dpi-proceedings.com/index.php/dtcse/article/viewFile/31453/30048) *HU, Shi-cheng, et al*. DEStech Transactions on Computer Science and Engineering aicae (2019).
 + [**An investigation on preference order ranking scheme for multiobjective evolutionary optimization.**](https://www.academia.edu/download/51314189/An_Investigation_on_Preference_Order_Ran20170112-16820-6xgt9f.pdf) *Di Pierro, Francesco, Soon-Thiam Khu, and Dragan A. Savic*. IEEE transactions on evolutionary computation 11.1 (2007): 17-45.
++ [**Incorporation of decision maker's preference into evolutionary multiobjective optimization algorithms.**](http://dl-acm-org-s.vpn.uestc.edu.cn:8118/doi/pdf/10.1145/1143997.1144126) *Ishibuchi H, Nojima Y, Narukawa K, et al*. Proceedings of the 8th annual conference on Genetic and evolutionary computation. 2006: 741-742.
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
