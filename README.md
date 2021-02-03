@@ -130,6 +130,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**An Interactive Territory Defining Evolutionary Algorithm: iTDEA.**](https://ieeexplore.ieee.org/document/5585741) *M. Köksalan and İ. Karahan*. IEEE Transactions on Evolutionary Computation 2010
 + [**A Tradeoff-Based Interactive Multi-Objective Optimization Method Driven by Evolutionary Algorithms.**](https://www.researchgate.net/profile/Bin_Xin4/publication/316065495_A_Tradeoff-Based_Interactive_Multi-Objective_Optimization_Method_Driven_by_Evolutionary_Algorithms/links/5a25e62baca2727dd880ecb4/A-Tradeoff-Based-Interactive-Multi-Objective-Optimization-Method-Driven-by-Evolutionary-Algorithms.pdf) *Chen, Lu, Bin Xin, and Jie Chen.*. Journal of Advanced Computational Intelligence and Intelligent Informatics 21, no. 2 (2017): 284-292.
 + [**Progressively interactive evolutionary multiobjective optimization.**](https://aaltodoc.aalto.fi/bitstream/handle/123456789/11079/Aalto_DD_2011_017.pdf?sequence=1&isAllowed=y) *Sinha, Ankur*. Aalto University, 2011.
++ [**Decomposition-Based Interactive Evolutionary Algorithm for Multiple Objective Optimization.**](http://ieeexplore-ieee-org-s.vpn.uestc.edu.cn:8118/stamp/stamp.jsp?tp=&arnumber=8710313) *M. K. Tomczyk and M. Kadziński*. IEEE Transactions on Evolutionary Computation, vol. 24, no. 2, pp. 320-334, April 2020, doi: 10.1109/TEVC.2019.2915767.
+
 
 
 
