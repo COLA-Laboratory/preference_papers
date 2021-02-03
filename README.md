@@ -94,6 +94,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**A stochastic learning-to-rank algorithm and its application to contextual advertising.**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.259&rep=rep1&type=pdf) *Karimzadehgan, Maryam, et al*. Proceedings of the 20th international conference on World wide web. 2011.
 + [**R2-based hypervolume contribution approximation.**](https://arxiv.org/pdf/1805.06773) *Shang, Ke, Hisao Ishibuchi, and Xizi Ni*. IEEE Transactions on Evolutionary Computation 24.1 (2019): 185-192.
 + [**Preference articulation by means of the R2 indicator.**](https://hal.inria.fr/docs/00/80/78/67/PDF/paperR2_authorversion.pdf) *Wagner, Tobias, Heike Trautmann, and Dimo Brockhoff*. International Conference on Evolutionary Multi-Criterion Optimization. Springer, Berlin, Heidelberg, 2013.
++ [**A Progressively Interactive MCDM Method for Portfolio Optimization Problem.**](https://www.dpi-proceedings.com/index.php/dtcse/article/viewFile/31453/30048) *HU, Shi-cheng, et al*. DEStech Transactions on Computer Science and Engineering aicae (2019).
+
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
