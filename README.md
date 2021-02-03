@@ -97,6 +97,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**A Progressively Interactive MCDM Method for Portfolio Optimization Problem.**](https://www.dpi-proceedings.com/index.php/dtcse/article/viewFile/31453/30048) *HU, Shi-cheng, et al*. DEStech Transactions on Computer Science and Engineering aicae (2019).
 + [**An investigation on preference order ranking scheme for multiobjective evolutionary optimization.**](https://www.academia.edu/download/51314189/An_Investigation_on_Preference_Order_Ran20170112-16820-6xgt9f.pdf) *Di Pierro, Francesco, Soon-Thiam Khu, and Dragan A. Savic*. IEEE transactions on evolutionary computation 11.1 (2007): 17-45.
 + [**Incorporation of decision maker's preference into evolutionary multiobjective optimization algorithms.**](http://dl-acm-org-s.vpn.uestc.edu.cn:8118/doi/pdf/10.1145/1143997.1144126) *Ishibuchi H, Nojima Y, Narukawa K, et al*. Proceedings of the 8th annual conference on Genetic and evolutionary computation. 2006: 741-742.
++ [**A Survey of Weight Vector Adjustment Methods for Decomposition-Based Multiobjective Evolutionary Algorithms.**](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/abstract/document/9022866/&hl=zh-CN&sa=T&oi=gsb&ct=res&cd=0&d=8987638630027866499&ei=QGgaYMPMB4PQyQTZvLrQBw&scisig=AAGBfm1-a8TmWGLxAu8vcO1VISOKvTsujQ) *X. Ma, Y. Yu, X. Li, Y. Qi and Z. Zhu*. IEEE Transactions on Evolutionary Computation, vol. 24, no. 4, pp. 634-649, Aug. 2020, doi: 10.1109/TEVC.2020.2978158.
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
