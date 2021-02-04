@@ -99,8 +99,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Incorporation of decision maker's preference into evolutionary multiobjective optimization algorithms.**](http://dl-acm-org-s.vpn.uestc.edu.cn:8118/doi/pdf/10.1145/1143997.1144126) *Ishibuchi H, Nojima Y, Narukawa K, et al*. Proceedings of the 8th annual conference on Genetic and evolutionary computation. 2006: 741-742.
 + [**A Survey of Weight Vector Adjustment Methods for Decomposition-Based Multiobjective Evolutionary Algorithms.**](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/abstract/document/9022866/&hl=zh-CN&sa=T&oi=gsb&ct=res&cd=0&d=8987638630027866499&ei=QGgaYMPMB4PQyQTZvLrQBw&scisig=AAGBfm1-a8TmWGLxAu8vcO1VISOKvTsujQ) *X. Ma, Y. Yu, X. Li, Y. Qi and Z. Zhu*. IEEE Transactions on Evolutionary Computation, vol. 24, no. 4, pp. 634-649, Aug. 2020, doi: 10.1109/TEVC.2020.2978158.
 + [**Adapting ranking SVM to document retrieval.**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.9110&rep=rep1&type=pdf) *Cao Y, Xu J, Liu T Y, et al*. Proceedings of the 29th annual international ACM SIGIR conference on Research and development in information retrieval. 2006: 186-193.
-+ [**SVM Tutorial-Classification, Regression and Ranking.**](https://www.researchgate.net/profile/Sungchul_Kim/publication/229010211_SVM_Tutorial_Classification_Regression_and_Ranking/links/53e2a7060cf2b9d0d8329b99/SVM-Tutorial-Classification-Regression-and-Ranking.pdf) *Yu H, Kim S*. Handbook of Natural computing, 2012, 1: 479-506.
-
++ [**SVM Tutorial-Classification, Regression and Ranking.**](https://www.researchgate.net/profile/Sungchul_Kim/publication/229010211_SVM_Tutorial_Classification_Regression_and_Ranking/links/53e2a7060cf2b9d0d8329b99/SVM-Tutorial-Classification-Regression-and-Ranking.pdf) *Yu H, Kim S*. (2006): 1-5.
++ [**Explaining Preference Learning.**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.8465&rep=rep1&type=pdf) *Glass, Alyssa*. Handbook of Natural computing, 2012, 1: 479-506.
++ [**Pairwise preference learning and ranking.**](https://link.springer.com/content/pdf/10.1007/978-3-540-39857-8_15.pdf) *Fürnkranz, Johannes, and Eyke Hüllermeier*. European conference on machine learning. Springer, Berlin, Heidelberg, 2003.
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
