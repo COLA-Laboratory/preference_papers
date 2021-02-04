@@ -102,6 +102,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**SVM Tutorial-Classification, Regression and Ranking.**](https://www.researchgate.net/profile/Sungchul_Kim/publication/229010211_SVM_Tutorial_Classification_Regression_and_Ranking/links/53e2a7060cf2b9d0d8329b99/SVM-Tutorial-Classification-Regression-and-Ranking.pdf) *Yu H, Kim S*. (2006): 1-5.
 + [**Explaining Preference Learning.**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.8465&rep=rep1&type=pdf) *Glass, Alyssa*. Handbook of Natural computing, 2012, 1: 479-506.
 + [**Pairwise preference learning and ranking.**](https://link.springer.com/content/pdf/10.1007/978-3-540-39857-8_15.pdf) *Fürnkranz, Johannes, and Eyke Hüllermeier*. European conference on machine learning. Springer, Berlin, Heidelberg, 2003.
++ [**Learning to order things.**](http://papers.neurips.cc/paper/1431-learning-to-order-things.pdf) *Cohen, William W., Robert E. Schapire, and Yoram Singer*. Advances in neural information processing systems 10 (1997): 451-457.
+
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
