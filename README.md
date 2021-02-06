@@ -104,8 +104,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Pairwise preference learning and ranking.**](https://link.springer.com/content/pdf/10.1007/978-3-540-39857-8_15.pdf) *Fürnkranz, Johannes, and Eyke Hüllermeier*. European conference on machine learning. Springer, Berlin, Heidelberg, 2003.
 + [**Learning to order things.**](http://papers.neurips.cc/paper/1431-learning-to-order-things.pdf) *Cohen, William W., Robert E. Schapire, and Yoram Singer*. Advances in neural information processing systems 10 (1997): 451-457.
 + [**Rv-svm: An efficient method for learning ranking svm.**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.1888&rep=rep1&type=pdf) *Yu, Hwanjo, Youngdae Kim, and Seungwon Hwang*. Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Berlin, Heidelberg, 2009.
-
-
++ [**Active ranking using pairwise comparisons.**](https://arxiv.org/pdf/1109.3701) *Jamieson, Kevin G., and Robert D. Nowak*. arXiv preprint arXiv:1109.3701 (2011).
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
