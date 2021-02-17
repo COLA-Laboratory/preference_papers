@@ -123,6 +123,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Coactive critiquing: Elicitation of preferences and features.**](https://ojs.aaai.org/index.php/AAAI/article/view/10929/10788) *Teso S, Dragone P, Passerini A*. Proceedings of the AAAI Conference on Artificial Intelligence. 2017, 31(1).
 + [**Constructive preference elicitation by setwise max-margin learning.**](https://arxiv.org/pdf/1604.06020) *Teso S, Passerini A, Viappiani P*. arXiv preprint arXiv:1604.06020, 2016.
 + [**Active learning of Pareto fronts.**](http://eprints.biblio.unitn.it/4087/1/ALP_tech_rep_with_cover.pdf) *Campigotto P, Passerini A, Battiti R*. IEEE transactions on neural networks and learning systems, 2013, 25(3): 506-519.
++ [**Efficiently learning the preferences of people.**](https://link.springer.com/content/pdf/10.1007/s10994-012-5297-4.pdf) *Guo S, Sanner S, Bonilla E V*. Machine Learning, 2013, 90(1): 1-28.
++ [**Gaussian process preference elicitation.**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.230.9172&rep=rep1&type=pdf) *Birlutiu A, Groot P, Heskes T*. Advances in neural information processing systems, 2010, 23: 262-270.
++ [**Ordered preference elicitation strategies for supporting multi-objective decision making.**](https://arxiv.org/pdf/1802.07606) *Zintgraf L M, Roijers D M, Linders S, et al*. arXiv preprint arXiv:1802.07606, 2018.
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
