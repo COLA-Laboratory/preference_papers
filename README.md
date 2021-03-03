@@ -125,6 +125,11 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Active learning of Pareto fronts.**](http://eprints.biblio.unitn.it/4087/1/ALP_tech_rep_with_cover.pdf) *Campigotto P, Passerini A, Battiti R*. IEEE transactions on neural networks and learning systems, 2013, 25(3): 506-519.
 + [**Efficiently learning the preferences of people.**](https://link.springer.com/content/pdf/10.1007/s10994-012-5297-4.pdf) *Guo S, Sanner S, Bonilla E V*. Machine Learning, 2013, 90(1): 1-28.
 + [**Gaussian process preference elicitation.**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.230.9172&rep=rep1&type=pdf) *Birlutiu A, Groot P, Heskes T*. Advances in neural information processing systems, 2010, 23: 262-270.
++ [**A survey on practical applications of multi-armed and contextual bandits.**](https://arxiv.org/pdf/1904.10040) *Bouneffouf, Djallel, and Irina Rish*. arXiv preprint arXiv:1904.10040 (2019).
++ [**Active learning literature survey.**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1) *Settles, Burr*. (2009).
++ [**Top-k Ranking Bayesian Optimization.**](https://arxiv.org/pdf/2012.10688) *Nguyen, Quoc Phong, et al*. arXiv preprint arXiv:2012.10688 (2020).
+
+
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
