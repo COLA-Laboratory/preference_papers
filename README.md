@@ -128,7 +128,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**A survey on practical applications of multi-armed and contextual bandits.**](https://arxiv.org/pdf/1904.10040) *Bouneffouf, Djallel, and Irina Rish*. arXiv preprint arXiv:1904.10040 (2019).
 + [**Active learning literature survey.**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1) *Settles, Burr*. (2009).
 + [**Top-k Ranking Bayesian Optimization.**](https://arxiv.org/pdf/2012.10688) *Nguyen, Quoc Phong, et al*. arXiv preprint arXiv:2012.10688 (2020).
-
++ Lapin, Maksim, Matthias Hein, and Bernt Schiele. "Loss functions for top-k error: Analysis and insights." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lapin_Loss_Functions_for_CVPR_2016_paper.pdf)
 
 
 
