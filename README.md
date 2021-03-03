@@ -129,8 +129,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Active learning literature survey.**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1) *Settles, Burr*. (2009).
 + [**Top-k Ranking Bayesian Optimization.**](https://arxiv.org/pdf/2012.10688) *Nguyen, Quoc Phong, et al*. arXiv preprint arXiv:2012.10688 (2020).
 + Lapin, Maksim, Matthias Hein, and Bernt Schiele. "Loss functions for top-k error: Analysis and insights." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lapin_Loss_Functions_for_CVPR_2016_paper.pdf)
-+ Hüllermeier, E., Fürnkranz, J., Cheng, W. and Brinker, K., 2008. Label ranking by learning pairwise preferences. Artificial Intelligence, 172(16-17), pp.1897-1916. [pdf](https://www.sciencedirect.com/science/article/pii/S000437020800101X/pdf?md5=d6725e0a46677c5651f83cb581fb157d&pid=1-s2.0-S000437020800101X-main.pdf)
-+ Fürnkranz, Johannes, and Eyke Hüllermeier. "Preference learning and ranking by pairwise comparison." Preference learning. Springer, Berlin, Heidelberg, 2010. 65-82. [pdf](http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2014/4550/pdf/dagrep_v004_i003_p001_s14101.pdf)
++ Hüllermeier, E., Fürnkranz, J., Cheng, W. and Brinker, K., 2008. Label ranking by learning pairwise preferences. Artificial Intelligence, 172(16-17), pp.1897-1916. [[pdf]](https://www.sciencedirect.com/science/article/pii/S000437020800101X/pdf?md5=d6725e0a46677c5651f83cb581fb157d&pid=1-s2.0-S000437020800101X-main.pdf)
++ Fürnkranz, Johannes, and Eyke Hüllermeier. "Preference learning and ranking by pairwise comparison." Preference learning. Springer, Berlin, Heidelberg, 2010. 65-82. [[pdf]](http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2014/4550/pdf/dagrep_v004_i003_p001_s14101.pdf)
 
 
 
