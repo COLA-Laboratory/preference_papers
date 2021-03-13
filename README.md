@@ -142,7 +142,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + Agarwal A, Agarwal S, Assadi S, et al. Learning with limited rounds of adaptivity: Coin tossing, multi-armed bandits, and ranking from pairwise comparisons[C]//Conference on Learning Theory. PMLR, 2017: 39-75. [**[PDF]**](http://proceedings.mlr.press/v65/agarwal17c/agarwal17c.pdf)
 + Jang M, Kim S, Suh C, et al. Top-$ k $ ranking from pairwise comparisons: When spectral ranking is optimal[J]. arXiv preprint arXiv:1603.04153, 2016. [**[PDF]**](https://arxiv.org/pdf/1603.04153)
 + Groves M, Branke J. Top-κ selection with pairwise comparisons[J]. European Journal of Operational Research, 2019, 274(2): 615-626. [**[PDF]**](https://www.sciencedirect.com/science/article/pii/S0377221718308622)
-+ Negahban S, Oh S, Shah D. Rank centrality: Ranking from pairwise comparisons[J]. Operations Research, 2017, 65(1): 266-287. [**[PDF]**](https://arxiv.org/pdf/1209.1688)
++ Negahban S, Oh S, Shah D. Rank centrality: Ranking from pairwise comparisons[J]. Operations Research, 2017, 65(1): 266-287. [**\[PDF\]**](https://arxiv.org/pdf/1209.1688)
 
 
 
@@ -178,6 +178,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**A Tradeoff-Based Interactive Multi-Objective Optimization Method Driven by Evolutionary Algorithms.**](https://www.researchgate.net/profile/Bin_Xin4/publication/316065495_A_Tradeoff-Based_Interactive_Multi-Objective_Optimization_Method_Driven_by_Evolutionary_Algorithms/links/5a25e62baca2727dd880ecb4/A-Tradeoff-Based-Interactive-Multi-Objective-Optimization-Method-Driven-by-Evolutionary-Algorithms.pdf) *Chen, Lu, Bin Xin, and Jie Chen.*. Journal of Advanced Computational Intelligence and Intelligent Informatics 21, no. 2 (2017): 284-292.
 + [**Progressively interactive evolutionary multiobjective optimization.**](https://aaltodoc.aalto.fi/bitstream/handle/123456789/11079/Aalto_DD_2011_017.pdf?sequence=1&isAllowed=y) *Sinha, Ankur*. Aalto University, 2011.
 + [**Machine decision makers as a laboratory for interactive EMO.**](https://core.ac.uk/download/pdf/205994559.pdf) *López-Ibáñez M, Knowles J*. International Conference on Evolutionary Multi-Criterion Optimization. Springer, Cham, 2015: 295-309.
++ Miettinen K, Ruiz F, Wierzbicki A P. Introduction to multiobjective optimization: interactive approaches[M]//Multiobjective Optimization. Springer, Berlin, Heidelberg, 2008: 27-57. [**\[PDF\]**](http://courses.nus.edu.sg/course/cheld/internet/CN5111/Multiobjective%20Optimization/2.%20Introduction%20to%20Multiobjective%20Optimization,%20Interactive%20Approaches.pdf)
+
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 + [**Regularized estimation for preference disaggregation in multiple criteria decision making.**](https://link.springer.com/article/10.1007/s10589-007-9037-9) *Doumpos, M., Zopounidis, C.*. Comput Optim Appl 38, 61–80 (2007).
