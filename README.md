@@ -143,8 +143,10 @@ This is an archive of papers related to preference learning, interactive multi-o
 + Jang M, Kim S, Suh C, et al. Top-$ k $ ranking from pairwise comparisons: When spectral ranking is optimal[J]. arXiv preprint arXiv:1603.04153, 2016. [**[PDF]**](https://arxiv.org/pdf/1603.04153)
 + Groves M, Branke J. Top-κ selection with pairwise comparisons[J]. European Journal of Operational Research, 2019, 274(2): 615-626. [**[PDF]**](https://www.sciencedirect.com/science/article/pii/S0377221718308622)
 + Negahban S, Oh S, Shah D. Rank centrality: Ranking from pairwise comparisons[J]. Operations Research, 2017, 65(1): 266-287. [**\[PDF\]**](https://arxiv.org/pdf/1209.1688)
-
-
++ Sun M, Stam A, Steuer R E. Solving multiple objective programming problems using feed-forward artificial neural networks: The interactive FFANN procedure[J]. Management Science, 1996, 42(6): 835-849. [**\[PDF\]**](http://pure.iiasa.ac.at/id/eprint/4846/1/RR-97-14.pdf)
++ Sun M, Stam A, Steuer R E. Interactive multiple objective programming using Tchebycheff programs and artificial neural networks[J]. Computers & Operations Research, 2000, 27(7-8): 601-620. [**\[PDF\]**](http://pure.iiasa.ac.at/id/eprint/4535/1/WP-95-058.pdf)
++ Chen J, Lin S. An interactive neural network-based approach for solving multiple criteria decision-making problems[J]. Decision Support Systems, 2003, 36(2): 137-146. [**\[PDF\]**](http://pure.iiasa.ac.at/id/eprint/4535/1/WP-95-058.pdfhttps://www.sciencedirect.com/science/article/pii/S0167923602001410)
++ Huang, Hong-Zhong, Zhigang Tian, and Ming J. Zuo. "Intelligent interactive multiobjective optimization method and its application to reliability optimization." IIE Transactions 37.11 (2005): 983-993. [**\[PDF\]**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.668.4676&rep=rep1&type=pdf)
 
 ### [Interactive Multi-Objective Optimization](#iemo)
 + [**Interactive Multiobjective Evolutionary Algorithms.**](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7) *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008.
