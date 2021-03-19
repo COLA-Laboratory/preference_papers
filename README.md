@@ -147,6 +147,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + Sun M, Stam A, Steuer R E. Interactive multiple objective programming using Tchebycheff programs and artificial neural networks[J]. Computers & Operations Research, 2000, 27(7-8): 601-620. [**\[PDF\]**](http://pure.iiasa.ac.at/id/eprint/4535/1/WP-95-058.pdf)
 + Chen J, Lin S. An interactive neural network-based approach for solving multiple criteria decision-making problems[J]. Decision Support Systems, 2003, 36(2): 137-146. [**\[PDF\]**](http://pure.iiasa.ac.at/id/eprint/4535/1/WP-95-058.pdfhttps://www.sciencedirect.com/science/article/pii/S0167923602001410)
 + Huang, Hong-Zhong, Zhigang Tian, and Ming J. Zuo. "Intelligent interactive multiobjective optimization method and its application to reliability optimization." IIE Transactions 37.11 (2005): 983-993. [**\[PDF\]**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.668.4676&rep=rep1&type=pdf)
++ Thiele L, Miettinen K, Korhonen P J, et al. A preference-based evolutionary algorithm for multi-objective optimization[J]. Evolutionary computation, 2009, 17(3): 411-436. [**\[PDF\]**](https://aaltodoc.aalto.fi/bitstream/handle/123456789/12318/isbn9789524880947.pdf?sequence=1&isAllowed=y)
+
+
 
 ### [Interactive Multi-Objective Optimization](#iemo)
 + [**Interactive Multiobjective Evolutionary Algorithms.**](https://link.springer.com/chapter/10.1007/978-3-540-88908-3_7) *Andrzej Jaszkiewicz, Jürgen Branke*. © Springer-Verlag Berlin Heidelberg 2008.
@@ -181,6 +184,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Progressively interactive evolutionary multiobjective optimization.**](https://aaltodoc.aalto.fi/bitstream/handle/123456789/11079/Aalto_DD_2011_017.pdf?sequence=1&isAllowed=y) *Sinha, Ankur*. Aalto University, 2011.
 + [**Machine decision makers as a laboratory for interactive EMO.**](https://core.ac.uk/download/pdf/205994559.pdf) *López-Ibáñez M, Knowles J*. International Conference on Evolutionary Multi-Criterion Optimization. Springer, Cham, 2015: 295-309.
 + Miettinen K, Ruiz F, Wierzbicki A P. Introduction to multiobjective optimization: interactive approaches[M]//Multiobjective Optimization. Springer, Berlin, Heidelberg, 2008: 27-57. [**\[PDF\]**](http://courses.nus.edu.sg/course/cheld/internet/CN5111/Multiobjective%20Optimization/2.%20Introduction%20to%20Multiobjective%20Optimization,%20Interactive%20Approaches.pdf)
++ Deb K, Chaudhuri S. I-MODE: an interactive multi-objective optimization and decision-making using evolutionary methods[C]//International Conference on Evolutionary Multi-Criterion Optimization. Springer, Berlin, Heidelberg, 2007: 788-802. [**\[PDF\]**](http://www.egr.msu.edu/~kdeb/papers/k2007003.pdf)
++ Miettinen K, Hakanen J. Why use interactive multi-objective optimization in chemical process design?[M]//MULTI-OBJECTIVE OPTIMIZATION: Techniques and Application in Chemical Engineering. 2017: 157-197. [**\[PDF\]**](https://jyx.jyu.fi/bitstream/handle/123456789/56674/1/miettinenhakanen2ndedition.pdf)
++ Kollat J B, Reed P. A framework for visually interactive decision-making and design using evolutionary multi-objective optimization (VIDEO)[J]. Environmental Modelling & Software, 2007, 22(12): 1691-1704. [**\[PDF\]**](http://www.engr.psu.edu/CE/Divisions/Hydro/Reed/Publications/My%20Papers/Kollet%20and%20Reed%202007%20VIDEO%20Paper.pdf)
 
 
 ### [Multi-Criteria Decision Analysis](#mcda)
@@ -196,6 +202,7 @@ This is an archive of papers related to preference learning, interactive multi-o
 + [**Interactive Genetic Algorithm with Mixed Initiative Interaction for multi-criteria ground water monitoring design.**](https://www.sciencedirect.com/science/article/pii/S1568494611003371) *Meghna Babbar-Sebens, Barbara S. Minsker*. Applied Soft Computing, Volume 12, Issue 1, 2012, Pages 182-195.
 + [**An Integrated Multi-Criteria Decision Making Approach to Location Planning of Electric Vehicle Charging Stations.**](https://ieeexplore.ieee.org/document/8357970) *H. Liu, M. Yang, M. Zhou and G. Tian*. IEEE Transactions on Intelligent Transportation Systems 2019.
 + [**A Probabilistic Method for Inferring Preferences from Clicks.**](http://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/hofmanncikm11.pdf) *Katja Hofmann et al*. International Conference on Information and Knowledge Management 2011.
-
-
++ Singh A, Minsker B S, Valocchi A J. An interactive multi-objective optimization framework for groundwater inverse modeling[J]. Advances in water resources, 2008, 31(10): 1269-1283. [**\[PDF\]**](https://www.sciencedirect.com/science/article/pii/S0309170808000845)
++ Hakanen J, Kawajiri Y, Miettinen K, et al. Interactive multi-objective optimization for simulated moving bed processes[J]. Control and Cybernetics, 2007, 36: 283-302. [**\[PDF\]**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.410.8577&rep=rep1&type=pdf)
++ Huang H Z, Gu Y K, Du X. An interactive fuzzy multi-objective optimization method for engineering design[J]. Engineering Applications of Artificial Intelligence, 2006, 19(5): 451-460. [**\[PDF\]**](https://www.sciencedirect.com/science/article/pii/S0952197605001417)
 
