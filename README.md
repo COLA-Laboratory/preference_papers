@@ -148,7 +148,9 @@ This is an archive of papers related to preference learning, interactive multi-o
 + Chen J, Lin S. An interactive neural network-based approach for solving multiple criteria decision-making problems[J]. Decision Support Systems, 2003, 36(2): 137-146. [**\[PDF\]**](http://pure.iiasa.ac.at/id/eprint/4535/1/WP-95-058.pdfhttps://www.sciencedirect.com/science/article/pii/S0167923602001410)
 + Huang, Hong-Zhong, Zhigang Tian, and Ming J. Zuo. "Intelligent interactive multiobjective optimization method and its application to reliability optimization." IIE Transactions 37.11 (2005): 983-993. [**\[PDF\]**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.668.4676&rep=rep1&type=pdf)
 + Thiele L, Miettinen K, Korhonen P J, et al. A preference-based evolutionary algorithm for multi-objective optimization[J]. Evolutionary computation, 2009, 17(3): 411-436. [**\[PDF\]**](https://aaltodoc.aalto.fi/bitstream/handle/123456789/12318/isbn9789524880947.pdf?sequence=1&isAllowed=y)
-
++ Ciomek K, Kadziński M, Tervonen T. Heuristics for prioritizing pair-wise elicitation questions with additive multi-attribute value models[J]. Omega, 2017, 71: 27-45. [**\[PDF\]**](https://www.sciencedirect.com/science/article/pii/S0305048316300238)
++ Ciomek K, Kadziński M, Tervonen T. Heuristics for selecting pair-wise elicitation questions in multiple criteria choice problems[J]. European Journal of Operational Research, 2017, 262(2): 693-707. [**\[PDF\]**](https://www.researchgate.net/profile/Milosz_Kadzinski/publication/316133683_Heuristics_for_selecting_pair-wise_elicitation_questions_in_multiple_criteria_choice_problems/links/59d4a2180f7e9b4fd702bb18/Heuristics-for-selecting-pair-wise-elicitation-questions-in-multiple-criteria-choice-problems.pdf)
++ Kadziński M, Tervonen T. Robust multi-criteria ranking with additive value models and holistic pair-wise preference statements[J]. European Journal of Operational Research, 2013, 228(1): 169-180. [**\[PDF\]**](https://www.sciencedirect.com/science/article/pii/S0377221713000520)
 
 
 ### [Interactive Multi-Objective Optimization](#iemo)
@@ -191,8 +193,8 @@ This is an archive of papers related to preference learning, interactive multi-o
 
 ### [Multi-Criteria Decision Analysis](#mcda)
 + [**Regularized estimation for preference disaggregation in multiple criteria decision making.**](https://link.springer.com/article/10.1007/s10589-007-9037-9) *Doumpos, M., Zopounidis, C.*. Comput Optim Appl 38, 61–80 (2007).
-
- 
++ Stewart T J. Robustness of additive value function methods in MCDM[J]. Journal of Multi‐Criteria Decision Analysis, 1996, 5(4): 301-309. [**\[PDF\]**](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1360(199612)5:4%3C301::AID-MCDA120%3E3.0.CO;2-Q)
++ Danielson M, Ekenberg L. Automatic Criteria Weight Generation for Multi-criteria Decision Making Under Uncertainty[C]//Innovation for Systems Information and Decision Meeting. Springer, Cham, 2020: 1-14. [**\[PDF\]**](https://link.springer.com/chapter/10.1007/978-3-030-64399-7_1)
 
 ### [Applications](#applications)
 + [**A two-stage preference-based evolutionary multi-objective approach for capability planning problems.**](https://www.sciencedirect.com/science/article/pii/S0950705112000378) *JianXiong, Ke-weiYang, JingLiu, Qing-songZhao, Ying-wuChen*. Knowledge-Based Systems 31(2012) Pages 128-139.
