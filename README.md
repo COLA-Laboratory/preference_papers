@@ -205,4 +205,5 @@ This is an archive of papers related to preference learning, interactive multi-o
 + Singh A, Minsker B S, Valocchi A J. An interactive multi-objective optimization framework for groundwater inverse modeling[J]. Advances in water resources, 2008, 31(10): 1269-1283. [**\[PDF\]**](https://www.sciencedirect.com/science/article/pii/S0309170808000845)
 + Hakanen J, Kawajiri Y, Miettinen K, et al. Interactive multi-objective optimization for simulated moving bed processes[J]. Control and Cybernetics, 2007, 36: 283-302. [**\[PDF\]**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.410.8577&rep=rep1&type=pdf)
 + Huang H Z, Gu Y K, Du X. An interactive fuzzy multi-objective optimization method for engineering design[J]. Engineering Applications of Artificial Intelligence, 2006, 19(5): 451-460. [**\[PDF\]**](https://www.sciencedirect.com/science/article/pii/S0952197605001417)
++ Kadziński M, Tervonen T, Tomczyk M K, et al. Evaluation of multi-objective optimization approaches for solving green supply chain design problems[J]. Omega, 2017, 68: 168-184. [**\[PDF\]**](https://www.sciencedirect.com/science/article/pii/S0305048316304182)
 
